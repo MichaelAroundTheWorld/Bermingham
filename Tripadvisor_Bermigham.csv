@@ -1,0 +1,986 @@
+;name;address;e-mail;site;telephone;e_mail
+0;Zindabad;Unit 32 Star City Watson Road Unit # 07, Star City Centre, Birmingham B7 5SA England;;http://www.zindabad.uk;tel:+44 121 328 8855;mailto:zindabadstarcity@gmail.com?subject=?
+1;Shogun Teppan-Yaki;The Waters Edge, Brindley Pl, Birmingham B1 2HL England;;http://www.shogunteppanyaki.com;tel:+44 121 643 8800;
+2;Buffet Island;Queslett Road Great Barr, Birmingham B43 7TN England;;http://buffetisland.com/;tel:+44 121 366 6028;mailto:greatbarr@buffetisland.com?subject=?
+3;Bailey's Caribbean Restaurant Limited;103 New Town Row, Birmingham B6 4HG England;;https://www.facebook.com/baileys9872/;tel:+44 121 679 2893;
+4;Don Diego Edgbaston;8 Chad Square Hawthorne Road, Birmingham B15 3TQ England;;http://www.dondiego.co.uk;tel:+44 121 448 6460;mailto:INFO@DONDIEGO.CO.UK?subject=?
+5;Aluna;128-130 Wharfside Street The Mailbox, Birmingham B1 1RQ England;;http://www.aluna.uk.com/birmingham.php;tel:+44 121 633 9987;mailto:info@aluna.uk.com?subject=?
+6;Restaurant Bar A Jee;265 Broad Street, Birmingham B1 2DS England;;http://www.restaurantbarajee.com/location.html;;mailto:info@restaurantbarajee.com?subject=?
+7;The Charlie Hall;49 Barnabas Road, Birmingham B23 6SH England;;http://www.jdwetherspoon.co.uk;tel:+44 121 384 2716;
+8;Taste Collective;Mell Square Solihull, Birmingham B91 3AY England;;http://tastecollectivesolihull.co.uk/;tel:+44 121 725 8809;mailto:info@tastecollective.co.uk?subject=?
+9;No42 Indian restaurant & coffee;42 Poplar Road Kings Heath, Birmingham B14 7AD England;;http://No42restaurant.co.uk;tel:+44 121 296 6774;mailto:Ibby1405@outlook.com?subject=?
+10;Viceroy Tandoori;109 Icknield St Jewellery Quarter, Birmingham B18 6RZ England;;http://www.viceroytandoori.com/;tel:+44 121 439 0607;mailto:mujib@viceroytandoori.co.uk?subject=?
+11;Ababeel;1069 Warwick Road, Birmingham B27 6QT England;;;tel:+44 121 448 6263;mailto:aba.beel@hotmail.com?subject=?
+12;Chutney Express;8 Hurst Lane Castle Bromwich, Birmingham B34 7HR England;;http://www.chutneyexpresstakeaway.co.uk/;tel:+44 121 749 3377;mailto:info@chutneyexpress.net?subject=?
+13;Kee Wah House;2047 Coventry Road Sheldon, Birmingham B26 3DY England;;http://Keewahhouse.co.uk;tel:+44 121 743 0663;
+14;Toby Carvery;2225 Coventry Road, Sheldon, Birmingham B26 3EH England;;http://www.tobycarvery.co.uk/sheldonbirmingham/;tel:+44 121 742 6201;
+15;Poncho Khana;502 Coventry Road, Birmingham B10 0UN England;;https://en-gb.facebook.com/PonchoKhana;tel:+44 121 773 0777;mailto:iftikharsyed@hotmail.co.uk?subject=?
+16;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+17;Pangaea;27 Poplar Road, Birmingham B14 7AA England;;http://www.pangaeacuisine.co.uk;tel:+44 121 441 2222;
+18;Brewer's Social;77 High Street, Birmingham B17 9NS England;;http://sadlersbars.co.uk;tel:+44 121 427 9570;mailto:harborne@sadlersales.co.uk?subject=?
+19;Giraffe;Terminal 1, Birmingham B26 3QJ England;;https://www.trgconcessions.co.uk/our-locations/location/Birmingham%20Airport;tel:+44 121 767 5628;mailto:concessions@trgplc.com?subject=?
+20;The Wilderness;27 Warstone Lane, Birmingham B18 6JQ England;;http://wearethewilderness.co.uk/;tel:+44 121 233 9425;mailto:hello@wearethewilderness.co.uk?subject=?
+21;British Oak Public House;1364 Pershore Road Stirchley, Birmingham B30 2XS England;;http://www.facebook.com/British-Oak-786752981459400/;tel:+44 121 458 1758;mailto:bookingsbritishoak@gmail.com?subject=?
+22;Eat;82-83 New Street, Birmingham B2 4BA England;;http://eat.co.uk/store-locations?full-list=true;tel:+44 121 632 5379;
+23;Grillz Steakhouse;278-280 Ladypool Road, Birmingham B12 8JU England;;http://grillzsteakhouse.com;tel:+44 121 449 0476;mailto:grillzsteakhouse@hotmail.com?subject=?
+24;Scottish Steak Club;New Street Burlington Arcade, Birmingham B2 4JQ England;;http://www.macdonaldhotels.co.uk/scottishsteakclub;tel:+44 121 633 1737;
+25;The Bond Cafe;The Bond 180-182 Fazeley Street Set within the Bond Company in Canal Side setting, Birmingham B5 5SE England;;http://thebondco.net/cafe;tel:+44 121 766 7410;
+26;Zumhof Biergarten;Progress Works 29 Heath Mill Lane, Birmingham B9 4AL England;;http://www.zumhof.co.uk/;tel:+44 161 817 3499;mailto:digbeth@zumhof.co.uk?subject=?
+27;Mighty Bite Cafe;1223 Pershore Road, Birmingham England;;http://www.mighty-bite.co.uk/;tel:+44 121 459 2020;
+28;Silver Hake Fish Bar and Restaurant;17 Olton Boulevard East, Birmingham B27 7RR England;;http://www.facebook.com/Silver-Hake-Fish-Bar-and-Restaurant-700289936705387/;tel:+44 7763 271187;
+29;The Peking;134 Beacon Road, Birmingham B43 7BN England;;;tel:+44 121 360 8188;
+30;The Towers Inn;The Towers Inn 636 Walsall Road Great Barr, Birmingham B42 1EY England;;http://www.sizzlingpubs.co.uk/thetowersinngreatbarr/;tel:+44 121 358 4627;
+31;Zindabad;Unit 32 Star City Watson Road Unit # 07, Star City Centre, Birmingham B7 5SA England;;http://www.zindabad.uk;tel:+44 121 328 8855;mailto:zindabadstarcity@gmail.com?subject=?
+32;The Gentleman & Scholar Pub and Terrace;2 Bridge Street Hyatt, Birmingham B1 2JZ England;;https://gentlemanandscholarpub.com;tel:+44 121 643 1234;mailto:birmingham.regency@hyatt.com?subject=?
+33;China Court;24 Ladywell Walk, Birmingham B5 4ST England;;http://www.chinacourtbirmingham.co.uk/;tel:+44 121 666 7031;
+34;Damascena Coffee House;Flat 1 17-21 Heritage Court 15 Warstone Lane, Birmingham B18 6HP England;;http://damascena.co.uk/contact-us-jewellery-quarter/;tel:+44 121 233 9932;mailto:jq@damascena.co.uk?subject=?
+35;Merrymaid Bar & Grill;263 Moseley Road Highgate, Birmingham B12 0EA England;;https://www.facebook.com/TheMerrymaid/;tel:+44 121 440 3043;mailto:merrymaidpub@hotmail.com?subject=?
+36;Brownie's;108 High Street Coleshill, Birmingham B46 3BL England;;http://www.browniesb46.com;tel:+44 7808 775366;
+37;Viceroy Tandoori;109 Icknield St Jewellery Quarter, Birmingham B18 6RZ England;;http://www.viceroytandoori.com/;tel:+44 121 439 0607;mailto:mujib@viceroytandoori.co.uk?subject=?
+38;The Glee Club;The Arcadian 70 Hurst Street, Birmingham B5 4TD England;;http://www.glee.co.uk/eating;;
+39;Mouchak Street;528 Coventry Road, Birmingham B10 0UN England;;http://mouchakstreet.com/;tel:+44 121 753 5874;mailto:order@mouchakstreet.com?subject=?
+40;Simla Spice;34 Queslett Road Great Barr, Birmingham B43 6PL England;;http://www.simlaspice.com;tel:+44 121 360 0530;mailto:info@simlaspice.com?subject=?
+41;the station;7 High Street, Birmingham B14 7BB England;;;tel:+44 121 444 8749;
+42;The Balti Room;1509 Pershore Road, Birmingham B30 2JL England;;http://thebaltiroombirmingham.co.uk/;tel:+44 121 458 1247;mailto:mosh_hussain@hotmail.com?subject=?
+43;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+44;Golden Rice;986 Tyburn Road, Birmingham B24 0TL England;;https://golden-rice-chinese-takeaway.business.site/;tel:+44 121 350 5467;
+45;Big John's Highgate;291 Gooch Street Highgate, Birmingham B5 7JE England;;http://www.mybigjohns.com;tel:+44 121 446 4083;
+46;Orchid Oriental;27 Watford Road Cotteridge, Birmingham B30 1JB England;;http://www.orchid-oriental.co.uk;tel:+44 121 458 3828;
+47;the KEG & GRILL;Upper Gough Street, Birmingham B1 1JG England;;http://www.thekegandgrill.co.uk;tel:+44 7891 472489;mailto:gardy@thekegandgrill.co.uk?subject=?
+48;Recess;1 Brunswick Square Brindleyplace, Birmingham B1 2HW England;;http://www.leisuretreats.co.uk/recess;tel:+44 121 643 1003;mailto:birminghambrindleyplace.recess@hilton.com?subject=?
+49;Jordan's Cafe;9 The Green King's Norton, Birmingham B38 8SD England;;https://www.facebook.com/JordansCafeKingsNorton/;tel:+44 121 458 4454;
+50;Kath's Cafe at Maypole;7 Idmiston Croft Maypole, Birmingham B14 5NJ England;;http://www.kathscafemaypole.co.uk/;tel:+44 121 430 7761;mailto:kathscafe14@gmail.com?subject=?
+51;Tsukiji Japanese Restaurant;51 Station Street, Birmingham B5 4DY England;;http://www.Japanesetsukiji.co.uk;tel:+44 121 616 2888;mailto:info@japanesetsukiji.co.uk?subject=?
+52;Silly Sausage Cafe;Imex Business Park Flaxley Road Unit 2, Imex Business Park, Birmingham B33 9AL England;;;tel:+44 121 789 8404;
+53;Wanted Burgers;640 Bristol Road Selly Oak, Birmingham B29 6BJ England;;http://www.wantedburgers.co.uk;tel:+44 121 238 5274;mailto:wantedburgers@gmail.com?subject=?
+54;Vietnamese Street Kitchen;Resorts World 40 Pendigo Way, Birmingham B40 1PU England;;http://vietnamesestreetkitchen.com/;tel:+44 121 781 0188;mailto:vietnamesestreetkitchen@gmail.com?subject=?
+55;Only Foods and Sauces;900 Kingsbury Road, Birmingham B24 9PY England;;https://www.facebook.com/Onlyfoodnsaucescafe/?rf=1397603110518921;tel:+44 121 448 4540;
+56;Pizza Hut Birmingham New St;135/137 New Street, Birmingham B2 4NS England;;https://www.pizzahut.co.uk/restaurants/find-a-hut/birmingham/birmingham-new-st/?utm_source=google&utm_medium=maps&utm_content=birminghamNewst&utm_campaign=googleplaces;tel:+44 121 643 2080;
+57;Grace + James;23 York Road, Birmingham B14 7SA England;;https://www.facebook.com/graceandjameskh/;tel:+44 7834 557104;
+58;Chillies Indian Takeaway;156 Woodthorpe Road, Birmingham B14 6EQ England;;http://www.facebook.com/chillies.kingsheath;tel:+44 121 443 4439;mailto:chillies.kingsheath@gmail.com?subject=?
+59;Chilli Peppers;179 Weoley Castle Road, Birmingham B29 5QH England;;https://www.chillipeppersbalti.com/;tel:+44 121 428 1573;
+60;Yorks Cafe;1 Oozells Square, Birmingham B1 2HS England;;http://www.yorkscafe.co.uk/yorks-ikon-gallery-birmingham;tel:+44 121 293 9186;mailto:ikon@yorkscafe.co.uk?subject=?
+61;The Bierkeller;195-196 Broad Street, Birmingham B15 1AY England;;http://thebierkeller.com/birmingham;tel:+44 845 533 3000;mailto:info@thebierkeller.com?subject=?
+62;Meatz Muntz St;15 Muntz Street, Birmingham B10 9SN England;;;tel:+44 121 439 7550;mailto:Meatzmuntzst@gmail.com?subject=?
+63;The Old Horns;Queslett Road Great Barr, Birmingham B43 7EQ England;;http://www.sizzlingpubs.co.uk/theoldhornsgreatbarr/;tel:+44 121 366 7248;
+64;Viceroy Tandoori;109 Icknield St Jewellery Quarter, Birmingham B18 6RZ England;;http://www.viceroytandoori.com/;tel:+44 121 439 0607;mailto:mujib@viceroytandoori.co.uk?subject=?
+65;Rose Villa Pub;58 Branston Street, Birmingham B18 6BP England;;http://therosevillatavern.co.uk;tel:+44 121 236 7910;
+66;YO! Birmingham Grand Central;Unit Grand Central Stephenson Place Stephensons Place, Birmingham B2 4BQ England;;https://yosushi.com/restaurants/birmingham-grand-central;tel:+44 121 227 4394;mailto:yo.grandcentral@yosushi.com?subject=?
+67;Pizza Express - Birmingham The Citadel;4 The Citadel 190 Corporation Street, Birmingham B4 6QB England;;https://www.pizzaexpress.com/birmingham-the-citadel?utm_source=listings&utm_medium=Places&utm_campaign=birmingham-the-citadel;tel:+44 121 236 0221;mailto:birmingham1.manager@pizzaexpress.com?subject=?
+68;Original Patty Men;9 Shaws Passage Digbeth, Birmingham B5 5JG England;;http://originalpattymen.com;tel:+44 121 643 2546;
+69;Induz Indian Restaurant;11 Kings road Sutton Coldfield, Birmingham B73 5AB England;;http://www.induz.net;tel:+44 121 355 5089;mailto:info@induz.net?subject=?
+70;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+71;Ruby Cantonese;2A Barnsley Road Edgbaston, Birmingham B17 8ED England;;http://rubychineserestaurantedgbaston.co.uk/chinese-cantones-restaurantedgbaston-menus;tel:+44 121 429 8805;
+72;Bournville Garden Centre;Bournville Garden Centre, Maple Road, Bournville Wyevale Garden Centre, Birmingham B30 2AE England;;http://britishgardencentres.com/bournville-garden-centre/?v=79cba1185463;tel:+44 121 472 0303;
+73;Shahimahal;4 Coleshill Road Hodge Hill, Birmingham B36 8AA England;;http://www.shahimahal.co.uk/;tel:+44 121 783 3557;
+74;Beefeater;1 High Street Longbridge, Birmingham B31 2UQ England;;https://www.beefeater.co.uk/;;
+75;New Sum Ye;Unit B206 Arcadian Centre 70 Hurst Street, Birmingham B5 4TD England;;http://www.facebook.com/newsumye;tel:+44 121 622 1525;mailto:newsumye@hotmail.com?subject=?
+76;Zindabad;Unit 32 Star City Watson Road Unit # 07, Star City Centre, Birmingham B7 5SA England;;http://www.zindabad.uk;tel:+44 121 328 8855;mailto:zindabadstarcity@gmail.com?subject=?
+77;Momo’s Restaurant;5 Whitmore Road, Birmingham B10 0NR England;;;tel:+44 121 772 4000;
+78;Ocean Dragon Japanese Restaurant;70 Hurst Street Arcadian Centre, Birmingham B5 4TD England;;http://www.ocean-dragon.com;tel:+44 121 622 4559;mailto:monaocean@hotmail.co.uk?subject=?
+79;Jolpai;167-169 Station Road, Birmingham B33 8BA England;;http://www.jolpai.co.uk/;tel:+44 121 785 2775;
+80;Gas Street Social;166-168 Wharfside Street The Mailbox, Birmingham B1 1RL England;;http://www.gasstreetsocial.co.uk;tel:+44 121 643 0362;mailto:book@gasstreetsocial.co.uk?subject=?
+81;Ed's Easy Diner;King Edwards Road Arena Birmingham, South Car Park, Birmingham B1 2AA England;;https://edseasydiner.com/locations/birmingham-bca;tel:+44 121 233 4005;mailto:BirminghamBCA.Manager@edseasydiner.com?subject=?
+82;Cafe 55;539-541 Bristol Road, Birmingham B29 6AU England;;http://www.cafe55.net/contact.html;tel:+44 121 471 4464;mailto:info@cafe55.net?subject=?
+83;Bilal Sweets;218 Alum Rock Road Alum Rock, Birmingham B8 3DH England;;http://www.facebook.com/pages/Bilal-Sweets/204298166305284;tel:+44 121 328 3033;
+84;The Vine Inn;Ruston Street, Birmingham B16 8BB England;;http://www.vinepub.com;tel:+44 121 454 7943;mailto:info@vinepub.com?subject=?
+85;Poli;21 York Road, Birmingham B14 7SA England;;http://Www.wearepoli.co.uk;;mailto:Hello@wearepoli.co.uk?subject=?
+86;Tap & Spile Restaurant;Gas Street Canalside, Birmingham B1 2JT England;;http://www.tapandspilerestaurant.co.uk/;tel:+44 121 632 5602;mailto:info@tapandspilefood.co.uk?subject=?
+87;Bottega Birmingham;King Edwards Road Unit 1, Arena Birmingham, Birmingham B1 2AA England;;http://www.bottegabirmingham.co.uk/;tel:+44 121 274 4199;mailto:info@bottegabirmingham.co.uk?subject=?
+88;Olympic Cafe;50 East Meadway, Birmingham B33 0AP England;;;tel:+44 121 783 3535;mailto:Olympic50@icloud.com?subject=?
+89;Pinocchio Italiano;Mailbox, Unit 109 / 111, Wharfside Street, Birmingham B1 1RF England;;http://www.pinocchioitaliano.co.uk;tel:+44 121 439 9393;mailto:info@pinocchioitaliano.co.uk?subject=?
+90;Cafe Munch;1169 Bristol Road South, Birmingham B31 2SL England;;;tel:+44 121 477 0805;
+91;Chilli Spice;200 Streetly Road, Birmingham B23 7AL England;;http://hungryhouse.co.uk/chilli-spice-erdington?aid=4fe99398aea34&bid=11ba4842&utm_source=affiliate-qype&utm_medium=affiliate&utm_campaign=qype;tel:+44 121 350 2966;
+92;Griiill;2 Drayton Road King's Heath, Birmingham B14 7LR England;;;tel:+44 7718 497777;
+93;Al Rabie;392 Coventry Road, Birmingham B10 0UF England;;http://alrabierestaurant.co.uk/;tel:+44 121 753 5599;mailto:info@alrabierestaurant.co.uk?subject=?
+94;Jacky's Kitchen;Unit 4 Southside, Bromsgrove St, Birmingham B5 6QB England;;;tel:+44 121 666 7187;
+95;Tin Sing;5 Raddlebarn Road, Birmingham B29 6HJ England;;;tel:+44 121 472 3888;
+96;Marco Pierre White Steakhouse, Bar & Grill Birmingham;200 Wharfside Street The Cube, Birmingham B1 1PR England;;http://mpwrestaurants.co.uk/our-brands/steakhouse-bar-and-grill/birmingham;tel:+44 121 634 3433;mailto:info@mpwsteakhousebirmingham.com?subject=?
+97;Zindabad;Unit 32 Star City Watson Road Unit # 07, Star City Centre, Birmingham B7 5SA England;;http://www.zindabad.uk;tel:+44 121 328 8855;mailto:zindabadstarcity@gmail.com?subject=?
+98;Rickshaw Express;1A Cornyx Lane, Birmingham B91 2SJ England;;http://www.RickShawExpress.com;tel:+44 121 705 7760;
+99;Fazeley social;Fazeley Studios 191 Fazeley Street Digbeth, Birmingham B5 5SE England;;http://www.fazeleysocial.com;tel:+44 121 244 8228;mailto:Daniellesutor@googlemail.com?subject=?
+100;The New Bell;128 Booths Farm Road, Birmingham B42 2NX England;;http://www.facebook.com/The-New-Bell-806633912846717/;tel:+44 121 357 0544;mailto:thenewbell@outlook.com?subject=?
+101;Sidewalk;125-127 Hurst Street, Birmingham B5 6SE England;;http://www.sidewalkbirmingham.co.uk;tel:+44 121 666 6220;
+102;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+103;Clare's Cafe;69 Collingwood Drive, Birmingham B43 7JW England;;;tel:+44 7824 664813;
+104;Arabesque Restaurant & Grill;86 Leopold Street Highgate, Birmingham B12 0UD England;;http://www.facebook.com/arabesquegrill/;tel:+44 121 753 0481;mailto:arabesquelounge2013@gmail.com?subject=?
+105;The Indian Eatery;2 Gospel Farm Road Hall Green, Birmingham B27 7JN England;;http://WWW.THEINDIANEATERY.COM;tel:+44 121 238 4763;
+106;Trader Cafe;824 Bristol Road South, Birmingham B31 2NS England;;http://www.cafeb31.com;tel:+44 121 318 8102;
+107;Greggs;14A Stephenson Place, Birmingham B2 4PY England;;https://www.greggs.co.uk/;tel:+44 121 643 0323;
+108;The Clock Cafe;900 Bristol Road South Northfield, Birmingham B31 2NS England;;https://www.facebook.com/pages/category/Fast-Food-Restaurant/The-Clock-Cafe-338073526344075/;tel:+44 121 477 7266;
+109;Dolphin Twins Fish Bar;998 Tyburn Road Sutton Coldfield, Birmingham B24 0TL England;;http://www.facebook.com/DolphinTwinsFishBar;tel:+44 121 382 3491;mailto:info@dolphintwins.co.uk?subject=?
+110;Falafel Munch (Selly Oak);640 Bristol Road, Birmingham B29 6BJ England;;https://falafel-munch-selly-oak.business.site;tel:+44 7778 888601;
+111;Miss Korea;155 Bromsgrove Street, Birmingham B5 6AB England;;https://www.facebook.com/MissKoreaRestaurant/;tel:+44 7837 427120;
+112;Rozu Restaurant & Cocktail Lounge;Upper Floor Arcadian Centre 70 Hurst Street, Birmingham B5 4TD England;;http://www.rozurestaurant.com;tel:+44 121 389 0974;mailto:Reservations@rozurestaurant.com?subject=?
+113;Tennis Court;Walsall Road, Birmingham B42 1TY England;;https://www.greatukpubs.co.uk/thetenniscourtsperrybarr/?utm_source=google&utm_medium=local_seo_gmb&utm_content=website;tel:+44 121 356 8124;mailto:tenniscourt.perrybarr@stonegatepubs.com?subject=?
+114;Hotel Chocolat;117 New Street, Birmingham B2 4JH England;;http://www.hotelchocolat.com/uk;tel:+44 121 643 3798;
+115;Gymmy's Healthy Grill;527 Moseley Road, Birmingham B12 9BU England;;https://www.facebook.com/GymmysGrill-1552252311734052/;tel:+44 121 258 2209;
+116;Balti Bites;1545 Pershore Road, Birmingham B30 2JH England;;https://www.facebook.com/baltibites/;tel:+44 121 459 3269;
+117;Little Dessert Shop;65-67 Parade High Street Kings Heath, Birmingham B14 7BH England;;https://www.facebook.com/LDSKingsHeath/;tel:+44 121 444 8811;mailto:kingsheath@littledessertshop.co.uk?subject=?
+118;Sahara Shisha Lounge Ltd;Unit 1 55 Erskine Street, Birmingham B7 4RU England;;http://www.saharashishalounge.co.uk;tel:+44 7974 000400;mailto:saharashishaloungeltd@gmail.com?subject=?
+119;Stirlings Bar Lounge & Eatery;21 Ludgate Hill, Birmingham B3 1DW England;;http://www.Stirlingsbar.co.uk;tel:+44 121 439 2121;mailto:info@StirlingsBar.co.uk?subject=?
+120;Snobs Bar & Grill;51 Smallbrook Queensway, Birmingham B5 4HX England;;http://www.snobsnightclub.co.uk;tel:+44 121 643 5551;
+121;Bromford Fish Bar;107 Bromford Lane, Birmingham B24 8JR England;;;tel:+44 121 373 7605;
+122;Topokki;Unit 1C Hurst Street, Birmingham B5 4TD England;;http://www.topokki.co.uk;tel:+44 121 666 7200;
+123;Raj's Spice;34 High Street, Birmingham B35 7PR England;;http://www.rajsspice.co.uk;tel:+44 121 747 4999;
+124;Mei's Cuisine;Indoor Market 50 Edgbaston Street Bullring Indoor Market, Birmingham B5 4RQ England;;;tel:+44 7714 993168;
+125;Felsons;Regency Wharf 266 Broad Street, Birmingham B1 2DS England;;http://www.walkaboutbars.com/about;tel:+44 7500 115776;
+126;Zindabad;Unit 32 Star City Watson Road Unit # 07, Star City Centre, Birmingham B7 5SA England;;http://www.zindabad.uk;tel:+44 121 328 8855;mailto:zindabadstarcity@gmail.com?subject=?
+127;Milan Sweet Centre;191 Stoney Lane, Birmingham B12 8HB England;;http://www.milansweetcentre.co.uk/;tel:+44 121 449 1617;mailto:info@milansweetcentre.co.uk?subject=?
+128;Cosy Club Brindleyplace;Unit 9F The Waters Edge, Birmingham B1 2HL England;;http://cosyclub.co.uk/;tel:+44 121 546 0438;mailto:bookings@cosyclub.co.uk?subject=?
+129;Centenary Brasserie & Bar at The Rep;Broad Street 6 Centenary Square, Birmingham B1 2EP England;;http://www.birmingham-rep.co.uk;tel:+44 121 245 2078;mailto:centenary@searcys.co.uk?subject=?
+130;Gaucho Birmingham;55 Colmore Row Lower Ground Retail, Birmingham B3 2AA England;;http://www.gauchorestaurants.com/restaurants/birmingham/;tel:+44 121 439 9236;mailto:Birmingham@gauchorestaurants.com?subject=?
+131;Macdonald Burlington Hotel;6 Burlington Arcade 126 New Street Burlington Arcade, Birmingham B2 4JQ England;;;tel:+44 344 879 9019;
+132;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+133;Domain Bar & Restaurant;121 Soho Road, Birmingham B21 9ST England;;http://domaincatering.com;tel:+44 121 515 4477;mailto:sales@domaincatering.com?subject=?
+134;The Highbury Inn;Dads Lane Junction of Moor Green Lane, Birmingham B13 8PQ England;;http://www.highburypub.co.uk/;tel:+44 121 414 1529;mailto:info@highburypub.co.uk?subject=?
+135;Mad Hatter's Cafe;7 Hollybank Road, Birmingham B13 0RF England;;https://www.facebook.com/Mad-Hatters-Cafe-121601034712620/;tel:+44 7928 723264;
+136;Perry Hill Tavern;23 Perry Hill Road, Birmingham B68 0AR England;;http://perryhilltavern.co.uk/;tel:+44 121 448 9650;mailto:info@perryhilltavern.co.uk?subject=?
+137;Hungry Hobbit;312 Wake Green Road, Birmingham B13 0BN England;;;tel:+44 121 702 2674;
+138;Digbeth Kitchen;67 High Street Digbeth, Birmingham B5 6DH England;;http://digbeth.org/digbeth-kitchen/;tel:+44 121 622 4936;
+139;The Colonial Pavilion;Westboure Road, Birmingham England;;;;
+140;Lee Garden;59 - 61 Birmingham Road Sutton Coldfield, Birmingham England;;http://www.leegardensuttoncoldfield.co.uk/;tel:+44 121 355 2834;
+141;East Meadway Chinese Take-Away;60 East Meadway, Birmingham B33 0AP England;;;tel:+44 121 789 7167;
+142;Moonlight Cuisine;671 Kingstanding Road Kingstanding, Birmingham B44 9RH England;;;tel:+44 121 354 2444;mailto:moonlightcuisinebirmingham@gmail.com?subject=?
+143;Xiong Qi Hot Pot;41 Essex Street, Birmingham B5 4TR England;;http://www.boing4u.co.uk;tel:+44 121 448 2620;
+144;Ten Ichi;The Arcadian 70 Hurst Street The Arcadian, The Arcadian Centre, Birmingham B5 4TD England;;http://tenichi.co.uk/;tel:+44 121 622 4559;mailto:info@tenichi.co.uk?subject=?
+145;Abu Zayd;412 Coventry Road, Birmingham B10 0UF England;;;;
+146;Cafelicious;147 New Road Rubery, Birmingham B45 9JW England;;http://WWW.CAFE-LICIOUS.COM;tel:+44 121 453 2252;mailto:CAFELICIOUS@HOTMAIL.CO.UK?subject=?
+147;Plant and Pulse;9 The Minories, Birmingham B4 6AG England;;http://www.plantandpulse.co.uk;tel:+44 7549 381346;mailto:rob@plantandpulse.co.uk?subject=?
+148;Sprinklez Barista Bar & Dessert Lounge;144 Church Rd, Birmingham England;;http://sprinklez.co.uk/index.php;tel:+44 121 682 3366;
+149;Tung Lok Restaurant;Unit 1, China Court Building, Bath Passage, Ladywell Walk, Birmingham B5 4ST England;;;tel:+44 121 622 3086;
+150;Chaska&Chaii;142-144 Ladypool Road, Birmingham B12 8JA England;;https://chaskaandchaii.com;tel:+44 121 753 4409;mailto:info@chaskaandchaii.com?subject=?
+151;Ort Cafe;500-504 Moseley Road Balsall Heath, Birmingham England;;http://ortcafe.co.uk/;;
+152;The High Field;22 Highfield Road Edgbaston, Birmingham B15 3DP England;;http://www.highfieldedgbaston.co.uk/;tel:+44 121 227 7068;mailto:highfield@peachpubs.com?subject=?
+153;Elements;Novotel Birmingham airport, Birmingham England;;;;
+154;The Bull's Head;Lime kiln lane, Birmingham England;;;tel:+44 1564 700368;
+155;Shogun Sushi Bar & Teppan-Yaki;Wharfside Street The Cube, Level 7, Birmingham B1 1RN England;;https://www.shoguncube.com/;tel:+44 121 643 8800;mailto:info@shoguncube.com?subject=?
+156;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+157;The Vaults;Newhall Place Newhall Hill, Birmingham B1 3JH England;;http://www.vaultsbirmingham.com/;tel:+44 121 212 9837;
+158;Tonkotsu Birmingham;Selfridges & Co, The Bullring, Upper Mall East, Birmingham England;;http://www.tonkotsu.co.uk/page/contact;tel:+44 121 600 6715;
+159;Jolly Bengali;269 Bearwood Road, Birmingham B66 4NA England;;http://jollybengalitakeaway.co.uk;tel:+44 121 420 2999;
+160;Mac Hallal;10 Muntz Street, Birmingham B10 9SN England;;https://mac-hallal.business.site/;tel:+44 121 679 4209;
+161;Purbobagh;886 Washwood Heath Road, Birmingham B8 2NB England;;http://www.purbobaghrestaurant.com;;mailto:info@purbobaghrestaurant.com?subject=?
+162;Azims Balti Restaurant;106-108 Lozells Road, Birmingham B19 2TB England;;http://www.supermeal.co.uk/azims-balti-restaurant-b19;tel:+44 121 523 5349;
+163;Pizza Hut - Star City;Unit 4 Wharton Street Industrial Estate Wharton Street Star City, Birmingham B7 5TR England;;https://www.pizzahut.co.uk/restaurants/find-a-hut/birmingham/star-city/?utm_source=google&utm_medium=maps&utm_content=starcity&utm_campaign=googleplaces;tel:+44 121 327 9666;
+164;670 Grams;4 Gibb Street, Birmingham B9 4BF England;;;;
+165;Apocalypse Cow;Ghetto Golf Custard Factory, Gibb Street, Digbeth, Birmingham B9 4AA England;;https://www.ghettogolf.co.uk/birmingham/;tel:+44 345 557 1288;mailto:enquiriesbirmingham@ghettogolf.co.uk?subject=?
+166;Ralph's Bar;Unit 1-4 Broadway Plaza 220 Ladywood Middleway, Birmingham B16 8LP England;;;tel:+44 121 454 2211;mailto:info@ralphs.uk.com?subject=?
+167;Unik Burgers;1 Knowle Road, Birmingham B11 3AJ England;;http://www.facebook.com/unikburgers/;tel:+44 7935 859925;mailto:unikburger@gmail.com?subject=?
+168;The Bull Ring Tavern;Digbeth, Birmingham B5 6BH England;;https://bullringtavern-digbeth.craftunionpubs.com;tel:+44 121 272 5499;
+169;EDEN - More than coffee;301 Reservoir Road, Birmingham B23 6DF England;;http://eden-coffee.co.uk/;tel:+44 121 478 4233;
+170;Tim Hortons;112-113 New Street, Birmingham B2 4EU England;;http://www.timhortons.co.uk/;;
+171;The Dark Horse;145 Alcester Road, Birmingham B13 8JP England;;http://www.darkhorsemoseley.co.uk/;tel:+44 121 449 6300;mailto:partybookingsdh@gmail.com?subject=?
+172;Khan Palace Cafe & Takeaway;Digbeth 26 Moat Lane, Birmingham B5 5BD England;;;tel:+44 121 633 3363;
+173;The vine;310 High Street, Birmingham B17 9PU England;;http://www.sizzlingpubs.co.uk/;tel:+44 121 428 3946;
+174;SWEET.;361-363 Ladypool Rd, Birmingham B12 8LA, Birmingham England;;http://www.sweet-desserts.com/;tel:+44 121 439 4710;
+175;Egghill Fish Bar;30 Egghill Lane, Birmingham B31 5NR England;;https://www.facebook.com/EgghillFish/;tel:+44 121 475 3330;
+176;Bournville Fish Bar;16 Bournville Lane, Stirchley, Birmingham B30 2JT England;;https://www.facebook.com/BOURNVILLE-FISH-BAR-166810612972/;tel:+44 121 451 2384;
+177;Pennyblacks;132-134 Wharfside The Mailbox, Birmingham England;;http://www.pennyblacksbar.com;tel:+44 121 634 3749;mailto:info@penny-blacks.com?subject=?
+178;Molly's Cafe;20A The Green, Birmingham B38 8SD England;;http://www.mollyscafe.co.uk;tel:+44 121 459 9500;mailto:Info@MollysCafe.co.uk?subject=?
+179;Diplomats Barista Ltd;Two Snowhill Snow Hill Queensway Snow Hill, Queensway., Birmingham B4 6GA England;;http://www.diplomatsbarista.co.uk;tel:+44 7988 588044;mailto:mike@diplomatsbarista.co.uk?subject=?
+180;Lickey Kitchen;498 Lickey Road Cofton Hackett, Birmingham B45 8UU England;;http://www.lickeykitchen.co.uk;tel:+44 121 460 1481;mailto:Orders@lickeykitchen.co.uk?subject=?
+181;Marco's Fish Bar;556 Walsall Road, Birmingham B42 1LR England;;;tel:+44 121 357 5938;
+182;Miller & Carter Resorts World;Pendigo Way, Birmingham B40 1PU England;;http://www.millerandcarter.co.uk/restaurants/east-and-west-midlands/millerandcarterresortsworld;tel:+44 121 272 7147;mailto:resortsworld@millerandcarter.co.uk?subject=?
+183;Wing Wah & Ming Moon Karaoke;8 Wrottesley Street, Birmingham B5 4RT England;;http://www.mingmoon.co.uk/theme-room-karaoke;tel:+44 121 622 5588;mailto:karaoke@mingmoon.co.uk?subject=?
+184;Marco's New York Italian Birmingham Airport;Coventry Road Holiday Inn, Birmingham Airport, Birmingham B26 3QW England;;http://www.mpwrestaurants.co.uk/restaurants/birmingham-airport;tel:+44 871 663 9007;mailto:info@marcosbhamairport.com?subject=?
+185;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+186;Manchester Seafood;1 Wrottesley Street, Birmingham B5 4RT England;;http://www.manchesterseafood.co.uk/restaurant;tel:+44 121 622 2546;
+187;Ladana Cafe;388 Stratford Road, Birmingham B11 4AB England;;https://ladanacafe.com/;tel:+44 121 688 0341;mailto:info@ladanacafe.com?subject=?
+188;Pershore House;1807 Pershore Road, Birmingham B30 3DN England;;;tel:+44 121 458 2068;
+189;Gorkha Lounge;11 Sheaf Lane, Sheldon, Birmingham B26 3EJ England;;http://www.gorkhalounge.co.uk;tel:+44 121 743 3931;mailto:contact@gorkhalounge.co.uk?subject=?
+190;Planet Spice Indian Takeaway;206 Wychall Road, Birmingham B31 3AU England;;http://www.planetspiceonline.com;tel:+44 121 604 9000;mailto:tiffinloungeltd@gmail.com?subject=?
+191;Fuel Juice Bar;353 Bullring Shopping Centre, Birmingham B5 4BU England;;https://www.bullring.co.uk/eating/sandwiches-snacks/fuel-juice-bar;;
+192;Golden Cafe;191 High Street, Birmingham B23 6SY England;;https://www.facebook.com/pages/category/Cafe/Golden-Cafe-925845820775861/;tel:+44 121 373 1651;
+193;Attic Brew Co.;Maryvale Road, Birmingham B30 2DA England;;https://www.facebook.com/atticbrewco/;;mailto:beer@atticbrewco.com?subject=?
+194;Las Iguanas Birmingham Arcadian Centre;Arcadian Centre, Hurst Street, Birmingham B5 4TD England;;https://www.iguanas.co.uk/restaurants/birmingham;tel:+44 121 622 4466;mailto:birmingham@iguanas.co.uk?subject=?
+195;Pitcher & Piano - Birmingham;The Waters's Edge 4 Brindley Place Brindley Place, Birmingham B1 2HZ England;;http://www.pitcherandpiano.com/where-are-we/birmingham;tel:+44 121 643 0214;mailto:birmingham@pitcherandpiano.com?subject=?
+196;18/81;Thorp Street, Birmingham B5 4AT England;;http://www.1881birmingham.co.uk;;
+197;Barajee;Broad Street, Birmingham B1 2DS England;;http://www.restaurantbarajee.com/;tel:+44 121 643 6700;mailto:info@barajee.com?subject=?
+198;Cafe Rouge;Broad Street The Waters Edge, Brindley Place, Birmingham B1 2HJ England;;http://www.caferouge.com/bistro-brasserie/birmingham/brindley-place?utm_medium=local&utm_source=listing&utm_campaign=yext&y_source=1_MTA3MjExMTYtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D;tel:+44 121 643 6556;mailto:BrindleyPlace@caferouge.co.uk?subject=?
+199;The Physician;36 Harborne Road Edgbaston, Birmingham B15 3DH England;;http://www.thephysician.co.uk;tel:+44 121 272 5900;mailto:physician@brunningandprice.co.uk?subject=?
+200;Dads Lane Fish Bar;1 Dads Lane Opposite Highbury pub, Birmingham B13 8PG England;;http://www.facebook.com/pages/Dads-Lane-Fish-Bar/138242432892842;tel:+44 121 472 0017;
+201;The Veggie Chippy;228 New John Street West, Birmingham B19 3UA England;;http://www.facebook.com/theveggiechippy;tel:+44 121 448 7557;
+202;Marmalade;Broad Street, Birmingham B1 2EP England;;http://www.birmingham-rep.co.uk;tel:+44 121 245 2080;mailto:hello@marmaladebirmingham.co.uk?subject=?
+203;The Birmingham Stable;115 John Bright Street Unit 1 Orion, Birmingham B1 1BE England;;http://birmingham.stablepizza.com;tel:+44 121 643 8918;mailto:birmingham@stablepizza.com?subject=?
+204;Damascena Coffee House;103 High Street, Birmingham B17 9NR England;;https://www.facebook.com/damascena.harborne/;tel:+44 121 427 7798;mailto:harborne@damascena.co.uk?subject=?
+205;B26 Food of India;2226 Coventry Road Fully Licensed, Sheldon, Birmingham B26 3JH England;;http://www.b26foodofindia.co.uk/;tel:+44 121 742 0085;
+206;Delhi Dining Restaurant;128 Hawthorn Road Kingstanding, Birmingham B44 8PX England;;http://www.delhidining.co.uk/;tel:+44 121 350 0055;
+207;Boars Head World Buffet;340 Aldridge Road Perry Barr, Birmingham B44 8BH England;;http://boarsheadworldbuffet.co.uk;tel:+44 121 356 9859;mailto:info@boarsheadworldbuffet.co.uk?subject=?
+208;La Vera;16 Martineau Place, Birmingham B2 4UB England;;http://www.pizzerialavera.co.uk;tel:+44 121 233 1988;
+209;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+210;The Lost & Found;8 Bennetts Hill, Birmingham B2 5RS England;;http://www.the-lostandfound.co.uk;tel:+44 121 643 9293;mailto:info@the-lostandfound.co.uk?subject=?
+211;The Church;22 Great Hampton Street, Birmingham B18 6AQ England;;;tel:+44 121 448 3866;
+212;Porto Douro Restaurants;16,1160 Warwick Road Acocks Green Birmingham, Birmingham B27 6BP England;;http://www.portodouro.co.uk;tel:+44 121 572 4070;mailto:birmingham@portodouro.co.uk?subject=?
+213;Away2dine;The Water's Edge Brindleyplace, Birmingham B1 2JB England;;http://www.away2dine.co.uk;tel:+44 121 647 7151;mailto:enquiries@away2dine.co.uk?subject=?
+214;Viceroy Tandoori;108-109 Icknield Street Hockley, Jewellery Quarter, Birmingham B18 6RZ England;;http://www.viceroytandoori.com/;tel:+44 121 439 0607;mailto:mujib@viceroytandoori.co.uk?subject=?
+215;Tamu Cafe;606 Bearwood Road, Birmingham B66 4BW England;;https://www.facebook.com/tamucafe1/;tel:+44 121 679 4305;
+216;The Pig & Tail;12-13 Albion Street, Birmingham B1 3ED England;;http://www.thepigandtail.co.uk;tel:+44 121 212 9964;mailto:thepigandtail@gmail.com?subject=?
+217;Gusto;Colmore Row Unit 10 The Grand Hotel, Birmingham B3 2BS England;;https://gustorestaurants.uk.com/restaurants/birmingham/;tel:+44 121 200 2400;mailto:birmingham@gustorestauarants.uk.com?subject=?
+218;Banu;Hagley Road,, Birmingham B17 8DL England;;http://www.banurestaurant.com;tel:+44 121 434 3416;
+219;Laghi's Deli;22-24 Islington Row Middleway, Birmingham B15 1LD England;;https://www.facebook.com/LaghisBirmingham/;tel:+44 121 455 0660;mailto:luca.laghi@me.com?subject=?
+220;ASK Italian - Birmingham City Centre;56 New Street, Birmingham B2 4DU England;;https://www.askitalian.co.uk;tel:+44 121 792 3505;
+221;The Bull's Head;38 Bishopsgate Street, Birmingham B15 1EJ England;;http://www.davenports.co.uk/pubs-and-bars/bulls-head-davenports/;tel:+44 121 439 4190;mailto:info@davenports.co.uk?subject=?
+222;Spice Menu;88 Weoley Castle Road, Birmingham B29 5PT England;;http://spicemenu.co.uk/;tel:+44 121 475 7755;mailto:kalam1@live.co.uk?subject=?
+223;Kimchi Korean Restaurant;2-4 Dawlish Road, Birmingham B29 7AE England;;http://www.kimchi.co.uk/;tel:+44 121 293 5845;mailto:kimchi5845@gmail.com?subject=?
+224;Pho;Grand Central Stephenson Place, Birmingham B2 4XJ England;;http://www.phocafe.co.uk/birmingham;tel:+44 121 392 8915;mailto:birmingham@phocafe.co.uk?subject=?
+225;Chung Ying Cantonese;16-18 Wrottesley Street, Birmingham B5 4RT England;;https://www.chungying.co.uk/restaurants/chung-ying-cantonese;tel:+44 121 622 5669;mailto:cantonese@chungying.co.uk?subject=?
+226;Leverton and Halls Cafe & Bed and Breakfast;218 Mary Vale Road Bournville, Birmingham B30 1PJ England;;http://www.facebook.com/Leverton-Halls-Deli-Coffee-Shop-151542134892083/;tel:+44 121 451 1246;mailto:deniseleverton@aol.com?subject=?
+227;Taj Mahal Restaurant;Norfolk House Smallbrook Queensway 1 Norfolk Housec, Theatre Approach, Birmingham B5 4LJ England;;http://www.tajmahalb5.co.uk/;tel:+44 121 643 8200;mailto:info@tajmahalb5.co.uk?subject=?
+228;Cosy Coffee Northfield;800-802 Bristol Road South, Birmingham B31 2NS England;;https://www.facebook.com/CosyCoffeeNorthfield;tel:+44 121 475 5880;
+229;Lewis's;2-4 St. Marys Row, Birmingham B13 8JG England;;http://www.lewissdeli.co.uk;tel:+44 121 257 0377;mailto:hello@lewissdeli.co.uk?subject=?
+230;1000 Trades;16 Frederick Street Jewellery Quarter, Birmingham B1 3HE England;;http://1000trades.org.uk;tel:+44 121 233 2693;mailto:info@1000trades.org.uk?subject=?
+231;Rodizio Rico;207 Wharfside Street The Cube, Birmingham B1 1RN England;;http://www.rodiziorico.com/?utm_source=yell&utm_medium=referral&utm_campaign=yell;tel:+44 121 285 2856;mailto:rodizio.b1@rodiziorico.com?subject=?
+232;Maharaja;23-25 Hurst Street, Birmingham B5 4AS England;;http://www.maharajarestaurant.co.uk/;tel:+44 121 622 2641;mailto:info@maharajarestaurant.co.uk?subject=?
+233;Savanna Restaurant;32 Bristol Street, Birmingham B5 7AA England;;http://savannarestaurantbirmingham.co.uk;tel:+44 121 293 2174;mailto:info@savannarestaurantbirmingham.co.uk?subject=?
+234;Saphari;Wolverhampton Road Oldbury, Birmingham B68 8LJ England;;http://www.saphari.co.uk;tel:+44 121 552 0041;mailto:contact@saphari.co.uk?subject=?
+235;Balti King;1258 Coventry Road, Birmingham B25 8BJ England;;http://www.baltiking.biz;tel:+44 121 693 4888;
+236;Kababish Restaurant - Moseley;29 Woodbridge Road, Birmingham B13 8EH England;;http://www.kababish.co.uk/;tel:+44 121 449 5556;mailto:info@kababish.co.uk?subject=?
+237;The Fat Swan;1 Stoney Lane The Clumsy Swan, Birmingham B25 8YP England;;http://thefatswan.co.uk/;tel:+44 7828 255189;mailto:thefatswan001@gmail.com?subject=?
+238;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+239;Kiss Me Cupcakes & Cakes;Unit 1 West Way Industrial Estate Alvechurch Road West Heath, Birmingham B31 3PQ England;;http://www.kissmecupcakes.co.uk;tel:+44 121 792 8829;mailto:info@kissmecupcakes.co.uk?subject=?
+240;Kuula Poké;16A Colmore Row Great Western Arcade, Birmingham B2 5HU England;;http://www.kuulapoke.co.uk/;tel:+44 121 236 7000;mailto:aloha@kuulapoke.co.uk?subject=?
+241;Diwan Balti;3 Alcester Road Mosely, Birmingham B13 8AR England;;https://www.facebook.com/Diwan-Balti-143121189082430/;tel:+44 121 442 4920;
+242;Chaophraya Birmingham;6 Spiceal Street St Martin's Square, Bullring, Birmingham B5 4BH England;;http://chaophraya.co.uk/birmingham/;tel:+44 121 655 0324;mailto:birmingham@chaophraya.co.uk?subject=?
+243;Craeft;35 Gas Street, Birmingham B1 2JT England;;https://www.craeft.co/;tel:+44 121 448 0993;mailto:info@craeft.co?subject=?
+244;Cappadocia Restaurant;33 Frederick Street Jewellery quater, Birmingham B1 3HH England;;http://cappadociarestaurant.com/;tel:+44 121 212 0338;mailto:info@cappadociarestaurant.com?subject=?
+245;Harvey Nichols Brasserie;The Mailbox 65 Wharfside Street The Mailbox, Birmingham B1 1RE England;;http://www.harveynichols.com/restaurant/birmingham-dining/;tel:+44 121 616 6028;mailto:reservations.birmingham@harveynichols.com?subject=?
+246;Adil's;148-150 Stoney Lane, Birmingham B12 8AJ England;;http://adils.co.uk;tel:+44 121 449 0335;mailto:info@adilbalti.co.uk?subject=?
+247;Purnell's Bistro and Ginger's Bar;11 Newhall Street, Birmingham B3 3NY England;;http://purnellsbistro-gingers.com/gingers-bar/;tel:+44 121 200 1588;mailto:info@purnellsbistro-gingers.com?subject=?
+248;Paprika Grill House;9 Raddlebarn Road Selly Oak, Birmingham B29 6HJ England;;http://ilovepaprikagrill.co.uk/our_menu.php;tel:+44 121 472 2137;mailto:bortos_iulia@yahoo.com?subject=?
+249;The New Talbot Quinton;43A Wolverhampton Road South, Birmingham B32 2AY England;;http://thenewtalbot.com;tel:+44 121 429 3322;mailto:info@thenewtalbot.com?subject=?
+250;Praza;94-96 Hagley Road, Birmingham B16 8LU England;;http://praza.co.uk/;tel:+44 121 456 4500;mailto:info@praza.co.uk?subject=?
+251;Al-Bader Restaurant Lebanese & Moroccan Cuisine;178-182 Ladypool Road Spark Brook, Birmingham B12 8JS England;;http://www.al-bader.co.uk/;tel:+44 121 773 9818;mailto:info@al-bader.co.uk?subject=?
+252;Bank;4 Brindley Place, Birmingham B1 2JB England;;http://therestaurantbarandgrill.com/our-restaurants/birmingham/;tel:+44 121 633 4466;mailto:birmingham@therestaurantbarandgrill.com?subject=?
+253;Arco Lounge;147 High Street Harborne, Birmingham B17 9NP England;;http://www.thelounges.co.uk/arco;tel:+44 121 428 3011;mailto:arco@thelounges.co.uk?subject=?
+254;Cosy Club Birmingham;33 Bennetts Hill, Birmingham B2 5SN England;;http://www.cosyclub.co.uk/;tel:+44 121 695 1131;mailto:bookings@cosyclub.co.uk?subject=?
+255;The Cottage Restaurant;1480 Pershore Road, Birmingham B30 2NT England;;http://Www.cottageindianrestaurant.com;tel:+44 121 459 6867;
+256;Bloom;32 Poplar Road Kings Heath, Birmingham B14 7AD England;;http://www.bloomkingsheath.com;;mailto:hello@bloomkingsheath.com?subject=?
+257;Casa Italia;491 Hagley Road, Birmingham B66 4AX England;;http://www.casaitalia-birmingham.co.uk/;tel:+44 121 429 5695;mailto:info@casaitalia-birmingham.co.uk?subject=?
+258;The Alchemist Brindleyplace;10F 12F The Waters Edge Brindleyplace, Birmingham B1 2HL England;;https://thealchemist.uk.com/;tel:+44 121 794 2164;mailto:birminghambdm@thealchemist.uk.com?subject=?
+259;The Wolf;Flat 2-10 Bismillah Building 14 Constitution Hill, Birmingham B19 3LY England;;http://www.thewolfbirmingham.co.uk;tel:+44 121 212 9555;mailto:hello@thewolfbirmingham.co.uk?subject=?
+260;Devon House Jamaican Restaurant & Bar;16 Hall Street Jewellery Quarter, Birmingham B18 6BS England;;http://www.devonhouse.co.uk;tel:+44 121 448 7203;mailto:info@devonhouse.co.uk?subject=?
+261;The New Masalla Merchant;1195 Pershore Road Cotteridge, Birmingham B30 2YT England;;http://thenewmasallamerchant.co.uk;tel:+44 121 458 4150;
+262;The New Garden Gate;113 Hamstead Hill Handsworth Wood, Birmingham B20 1BX England;;https://www.facebook.com/pages/Garden-Gate/119306434790154;tel:+44 121 551 2873;mailto:arron.jassal@googlemail.com?subject=?
+263;Peacock Inn;Icknield Street Forhill, Kings Norton, Birmingham B38 0EH England;;http://www.chefandbrewer.com/pubs/west-midlands/peacock-inn/;tel:+44 1564 823232;mailto:6220@greeneking.co.uk?subject=?
+264;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+265;Paul at No 41;41 High Street, Birmingham B17 9NT England;;http://m.facebook.com/paulatno41;tel:+44 121 426 4446;mailto:paulatno41@gmail.com?subject=?
+266;Deep Caribbean Experience;34 Bristol Street Opposite The 02 Academy, Birmingham B5 7AA England;;http://www.thedeepexperience.com/;tel:+44 121 622 3332;mailto:info@thedeepexperience.com?subject=?
+267;Eat Vietnam;1422 Pershore Road, Birmingham B30 2PH England;;https://www.facebook.com/eatvietnamuk/;tel:+44 121 433 3377;mailto:info@eatvietnam.co.uk?subject=?
+268;Zizzi - Birmingham;The Mailbox, Birmingham B1 1RL England;;https://www.zizzi.co.uk/;tel:+44 121 643 5605;mailto:birmingham@zizzi.co.uk?subject=?
+269;Eden Bar;116 Sherlock Street, Birmingham B5 6NB England;;http://www.theedenbar.co.uk;tel:+44 121 622 1953;
+270;Kolkata Lounge;1488 Pershore Road Stirchley, Birmingham B30 2NT England;;http://www.kolkatalounge.co.uk/;tel:+44 121 486 1487;mailto:food@kolkatalounge.co.uk?subject=?
+271;Fumo;1 Waterloo Street, Birmingham B2 5PG England;;http://www.sancarlofumo.co.uk/;tel:+44 121 643 8979;mailto:fumobirmingham@sancarlo.co.uk?subject=?
+272;Old Moseley Arms;53 Tindal Street, Birmingham B12 9QU England;;http://www.oldmoseleyarms.co.uk;tel:+44 121 440 1954;
+273;Little Bengal;155-157 Yew Tree Lane Yardley, Birmingham B26 1AY England;;http://www.little-bengal.com/yardley/;tel:+44 121 784 3388;
+274;All Bar One Birmingham Newhall Street;43 Newhall Street, Birmingham B3 3NY England;;http://www.allbarone.co.uk/national-search/east-and-west-midlands/all-bar-one-newhall-street-birmingham/food;tel:+44 121 212 2551;
+275;Ask Italian - Edgbaston;237 Hagley Road, Birmingham B16 9RR England;;https://www.askitalian.co.uk;tel:+44 121 238 0325;
+276;Beefeater;176 Hagley Road Edgbaston, Birmingham B16 9NY England;;https://www.beefeater.co.uk/en-gb/locations/west-midlands/the-duck?cid=yext_40025710;tel:+44 121 452 5951;
+277;Manzils;112 Digbeth, Birmingham B5 6DT England;;http://www.manzils.co.uk;tel:+44 121 643 4051;
+278;Soul Shack at The Sunflower Lounge;76 Smallbrook Queensway, Birmingham B5 4EG England;;http://www.thesunflowerlounge.com/;tel:+44 121 632 6756;
+279;The Black Eagle Pub & Restaurant;16 Factory Road, Birmingham B18 5JU England;;http://www.theblackeaglepub.co.uk/;tel:+44 121 523 4008;mailto:blackeagleb18@aol.com?subject=?
+280;Mr Singh's;103 Cornwall Road Handsworth Wood, Birmingham B20 2HY England;;http://mrsinghspizza.co.uk/;tel:+44 121 523 9275;mailto:hello@mrsinghspizza.co.uk?subject=?
+281;Sreepur;2589 Coventry Road Sheldon, Birmingham B26 3PX England;;http://sreepur.co.uk;tel:+44 121 742 0214;
+282;Ristorante Veneziano;54 High Street, Birmingham B14 7JZ England;;http://ristorante-veneziano.co.uk/;tel:+44 121 444 6699;mailto:venezianobirmingham@gmail.com?subject=?
+283;Bano Phool;116-118 New Road Rubery, Birmingham B45 9HY England;;http://www.banophool.com/;tel:+44 121 457 9358;mailto:eat@banophool.co.uk?subject=?
+284;The Factory Bar and Kitchen;Birmingham Airport Departure Terminal 1, Birmingham B26 3QJ England;;http://www.birminghamairport.co.uk/at-the-airport/eating-and-drinking/factory-bar-and-kitchen;tel:+44 121 767 8235;mailto:Paulina.Jedynak@ssp.uk.com?subject=?
+285;Frankie & Benny's;Unit FU4, The Fort Shopping Centre, 20 Fort Parkway Unit FU4, The Fort Shopping Centre, 20 Fort Parkway, B249FP, Birmingham B24 9FP England;;https://www.frankieandbennys.com/restaurants/west-midlands/birmingham/the-fort-shopping-centre;tel:+44 121 386 3124;
+286;Chez Mal Brasserie;The Mailbox 1 Wharfside Street, Birmingham B1 1RD England;;https://www.malmaison.com/locations/birmingham/chez-mal-brasserie/;tel:+44 121 794 3004;mailto:brasserie.birmingham@malmaison.com?subject=?
+287;Ponte Di Legno;44-44A Woodbridge Road Moseley, Birmingham B13 8EJ England;;http://www.pontedilegno.co.uk/;tel:+44 871 207 2763;
+288;Primitivo;10 Barwick Street, Birmingham B3 2NT England;;http://www.primitivo-birmingham.co.uk;tel:+44 121 236 6866;mailto:enquiries@primitivo-birmingham.co.uk?subject=?
+289;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+290;The Gin Vault;16 Gas Street, Birmingham B1 2DS England;;http://theginvault.com;tel:+44 121 769 0166;mailto:theginvault@hotmail.com?subject=?
+291;Teppanyaki Japanese Restaurant;Unit E201,The Arcadian Ladywell Walk, Birmingham B5 4ST England;;;tel:+44 121 622 5183;
+292;Bedders;898 Coventry Road, Birmingham B10 0UA England;;;tel:+44 121 772 1532;
+293;Chiquito - Birmingham - Hagley Road;Hagley Road West Warley, Birmingham B68 0LH England;;https://www.chiquito.co.uk/restaurants/west-midlands/birmingham/birmingham-hagley-road;tel:+44 121 434 6840;
+294;The Early Bird Bakery;28 High Street, Birmingham B14 7JT England;;http://theearlybirdbakery.co.uk;tel:+44 121 608 9816;mailto:info@theearlybirdbakery.co.uk?subject=?
+295;The White Swan;Harborne Road, Birmingham B15 3TT England;;http://www.thewhiteswanpub.com;tel:+44 121 454 2359;mailto:enquiry@thewhiteswanpub.com?subject=?
+296;sabai sabai;25 Woodbridge Road, Birmingham B13 8EH England;;http://www.sabaisabai.com;tel:+44 121 449 4498;mailto:moseley@sabaisabai.com?subject=?
+297;Utopia - the Country Bar;16 Church Street Innovation Square, Birmingham B3 2NP England;;http://www.bar-utopia.co.uk;tel:+44 121 233 3666;mailto:contact@bar-utopia.co.uk?subject=?
+298;Bistro du Vin;25 Church Street Hotel du Vin, Birmingham B3 2NR England;;http://www.hotelduvin.com/locations/birmingham/bistro/;tel:+44 121 794 3005;mailto:reception.birmingham@hotelduvin.com?subject=?
+299;40 St Paul's;40 Cox Street, Birmingham B3 1RD England;;http://www.40stpauls.co.uk;tel:+44 7340 037639;
+300;King's Indian Dining;13/15 York Road Kings Heath, Birmingham B14 7SA England;;http://kingsindiandining.co.uk;tel:+44 121 443 4173;
+301;Handmade Burger Co Brindley Place Birmingham;Unit 14T The Waters Edge Brindley Place, Birmingham B1 2JB England;;http://www.handmadeburger.co.uk;tel:+44 121 665 6542;mailto:info@handmadeburger.co.uk?subject=?
+302;Circle Restaurant;Hurst Street Southside, Birmingham B5 4TB England;;http://www.birminghamhippodrome.com/plan-your-visit/food-drink/circle-restaurant/;tel:+44 844 338 5000;mailto:restaurantreservations@birminghamhippodrome.com?subject=?
+303;Patiala;1260 Pershore Road, Birmingham B30 2XU England;;http://Www.patiala.co.uk;tel:+44 121 486 3939;mailto:Info@patiala.co.uk?subject=?
+304;The Button Factory;25 Frederick Street, Birmingham B1 3HH England;;http://thebuttonfactorybirmingham.co.uk;tel:+44 121 236 4653;mailto:hello@thebuttonfactorybirmingham.co.uk?subject=?
+305;Las Iguanas;Pendigo Way Ground Floor, Resorts World Birmingham, Birmingham B40 1PU England;;https://www.iguanas.co.uk/restaurants/birmingham-resortsworld;tel:+44 121 767 5861;mailto:resortsworld@iguanas.co.uk?subject=?
+306;The Jam House;3 - 5 St Paul's Square, Birmingham B3 1QU England;;http://www.thejamhouse.com/birmingham;tel:+44 121 200 3030;mailto:birmingham@thejamhouse.com?subject=?
+307;Lime Pickle;89 Windleaves Road, Birmingham B36 0BT England;;http://www.thelimepickle.com;tel:+44 121 421 6780;
+308;Bantu Birmingham;5-11 Fleet street, Birmingham B3 1JP England;;http://bantubirmingham.com/menu/;tel:+44 121 212 2688;mailto:contact@bantubirmingham.com?subject=?
+309;Dig Brew Co;43 River St Past the Pink Light, Enter Through the Brewery Tanks, Birmingham B5 5SA England;;http://www.digbrewco.com;tel:+44 121 773 2111;mailto:info@digbrewco.com?subject=?
+310;Arch 13;Arch 13 Queensway Arches 220 Livery Street, Birmingham B3 1EU England;;http://arch13bar.co.uk;tel:+44 121 794 6636;mailto:hello@arch13bar.co.uk?subject=?
+311;Bella Italia;102 New Street The Charters, Birmingham B2 4HS England;;https://www.bellaitalia.co.uk/italian-restaurant/birmingham/new-street;tel:+44 121 643 1548;mailto:Birmingham@BellaItalia.co.uk?subject=?
+312;Tiffin;69 High Street Harborne, Birmingham B17 9NS England;;http://www.tiffinharborne.co.uk;tel:+44 121 426 4440;mailto:info@tiffinharborne.co.uk?subject=?
+313;Zizzi;3 Brindley Place Birmingham Brindley Place, Birmingham B1 2JB England;;https://www.zizzi.co.uk/;tel:+44 121 792 3507;mailto:feedback@zizzi.co.uk?subject=?
+314;The Norton Coleshill;The Norton Coleshill Station Road Station Road, Birmingham B46 1JZ England;;http://www.facebook.com/Nortoncoleshill/;tel:+44 1675 464260;mailto:thenortoncoleshill@outlook.com?subject=?
+315;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+316;Dezhou Style Braised Chicken;The Arcadian, Birmingham England;;http://www.facebook.com/dezhoustyle;tel:+44 121 622 3283;
+317;Original Frying Pan;158 Dudley Road, Birmingham B18 7QX England;;https://www.facebook.com/pg/Original-Frying-Pan-827961744252734/about/?ref=page_internal;tel:+44 121 448 3790;
+318;Tru burger;369 Ladypool Road, Birmingham B12 8LA England;;http://www.truburger.co.uk;tel:+44 121 449 2356;mailto:hello@truburger.co.uk?subject=?
+319;The Queen’s Arms;150 Newhall Street Jewellery Quarter, Birmingham B3 1RY England;;http://www.queensarmsbirmingham.co.uk;tel:+44 121 236 3710;mailto:hello@queensarmsbirmingham.co.uk?subject=?
+320;Palmyra Mediterranean food and coffee;13 St Marys Row Moseley, Birmingham B13 8HW England;;http://shuaa.co/PALMYRA/?page_id=783;tel:+44 121 449 7450;mailto:subhi.al.sheikh@gmail.com?subject=?
+321;Black Lab Cafe and Lounge;100 High Street, Birmingham B14 7JZ England;;http://black-lab.co.uk;tel:+44 121 441 2288;mailto:info@black-lab.co.uk?subject=?
+322;Rajdoot - Birmingham;78-79 George Street Hockley, Birmingham B3 1PY England;;http://www.rajdoot.co.uk/;tel:+44 121 236 1116;
+323;Lime N Chilli;72 Soho Road Handsworth, Birmingham B21 9BH England;;http://www.limenchilli.co.uk;tel:+44 121 523 0555;mailto:info@limenchilli.co.uk?subject=?
+324;Adian's Dining;144 Potters Lane, Birmingham B6 4UU England;;http://www.adiansdining.co.uk;tel:+44 7713 177002;mailto:info@adiansdining.co.uk?subject=?
+325;Tortilla Birmingham;Grand Central Stephenson Place, Birmingham B2 4BQ England;;http://tortilla.co.uk/locations/birmingham;tel:+44 121 643 7033;mailto:birmingham@tortilla.co.uk?subject=?
+326;Beys Diner;192 Sutton New Road, Birmingham B23 6QU England;;https://www.facebook.com/2-Beys-Diner-269944530310280/;tel:+44 121 439 6969;mailto:beys-diner@outlook.com?subject=?
+327;The Old Crown;188 High Street, Birmingham B12 0LD England;;http://www.theoldcrown.com;tel:+44 121 248 1368;mailto:alex@theoldcrown.com?subject=?
+328;Sabai Sabai Central;7 Waterloo Street, Birmingham B2 5PG England;;https://www.sabaisabai.com/;tel:+44 121 448 3850;mailto:birmingham@sabaisabai.com?subject=?
+329;Peach Garden;34 Ladywell Walk, Birmingham B5 4ST England;;;tel:+44 121 666 7502;
+330;Bangla Lounge Harborne;Harborne High Street 152A, Birmingham B17 9NP England;;http://banglalounge.menupage.uk;tel:+44 121 426 4321;mailto:banglaloungeharbourne@gmail.com?subject=?
+331;Akbars;184 Hagley Road, Birmingham B16 9NY England;;https://web.facebook.com/Akbar-Resturant-186465761422975/?ref=page_internal;tel:+44 121 452 1862;
+332;The Bell Harborne;11 Old Church Road, Birmingham B17 0BB England;;https://www.classicinns.co.uk/thebellharborne/?utm_source=google&utm_medium=local_seo_gmb&utm_content=website;tel:+44 121 428 4609;mailto:bellharborne.birmingham@stonegatepubs.com?subject=?
+333;Zindabad;Unit 32 Star City Watson Road Unit # 07, Star City Centre, Birmingham B7 5SA England;;http://www.zindabad.uk;tel:+44 121 328 8855;mailto:zindabadstarcity@gmail.com?subject=?
+334;YO! Birmingham Selfridges;Selfridges, Upper Dean Street, Bullring Upper Dean Street, Birmingham B5 4BP England;;https://yosushi.com/restaurants/birmingham-selfridges;tel:+44 121 600 6712;mailto:yo.birmingham@yosushi.com?subject=?
+335;Franco Manca Birmingham;18-19 Bennetts Hill, Birmingham B2 5QJ England;;http://www.francomanca.co.uk/restaurants/birmingham/;tel:+44 121 630 3009;
+336;Jeera;341 Chester Road Castle Bromwich, Birmingham B36 0JG England;;http://www.jeerabalti.co.uk/;tel:+44 121 748 6063;
+337;Sentinos;502 Hagley Road West Quinton, Birmingham B68 0BZ England;;http://sentinos.co.uk/;tel:+44 121 421 6373;
+338;Mellow's Bar & Restaurant;57 Grosvenor Street West, Birmingham B16 8HJ England;;https://www.facebook.com/mellowscatering/;tel:+44 121 688 7000;mailto:mellowscatering@hotmail.co.uk?subject=?
+339;Fumo;Selfridges Upper Mall East, Bullring Shopping Centre, Birmingham B5 4BU England;;http://sancarlo.co.uk/restaurants/fumo-birmingham-selfridges/;tel:+44 121 600 6869;mailto:bookings@fumoselfridges.co.uk?subject=?
+340;Istanbul Restaurant;2 Stockwell Road Handworth Wood, Birmingham B21 9RJ England;;http://istanbulrestaurant.com/;tel:+44 121 448 5223;
+341;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+342;Jyoti;1045 Stratford Road Hall Green,, Birmingham B28 8AS England;;http://www.jyotis.co.uk/;tel:+44 121 778 5501;
+343;Sylhet Spice Cuisine;Sylhet Building 27-29 York Road Kingsheath, Birmingham B14 7SA England;;http://sylhetspicecuisine.co.uk;tel:+44 845 017 5737;
+344;Ming Moon Restaurant;16 Hurst Street, Birmingham B5 4BN England;;http://mingmoon.co.uk/;tel:+44 121 622 5588;
+345;Giraffe;Dining Terrace Grand Central, Birmingham B2 4BQ England;;https://www.giraffe.net/locations/birmingham-grand-central;tel:+44 121 643 0216;mailto:GrandCentral@giraffe.net?subject=?
+346;Digbeth Works;79A Digbeth, Birmingham B5 6DY England;;http://digbethworks.com;tel:+44 121 792 0771;mailto:stef.leppard1@gmail.com?subject=?
+347;Baked In Brick;The Custard Factory Gibb Street The Custard Factory, Birmingham B9 4AA England;;http://bakedinbrick.co.uk/restaurant/;tel:+44 121 740 1256;
+348;CafeSol;1281 Bristol Road South, Birmingham B31 2SP England;;https://www.facebook.com/cafesolomons;tel:+44 121 475 9483;mailto:cafe_sol1281@hotmail.com?subject=?
+349;Ashiana;531 Moseley Road, Birmingham B12 9BU England;;http://ashiana-uk.jimdo.com/;tel:+44 121 440 4646;mailto:sahargrill@gmail.com?subject=?
+350;Pirlo's Dessert Lounge;6 Coventry Street Digbeth, Birmingham B5 5NY England;;http://www.pirlos.co.uk;tel:+44 121 643 8242;mailto:bookings@pirlos.co.uk?subject=?
+351;Poplar Balti;48 Poplar Road Kings Health, Birmingham B14 7AG England;;http://poplarbalti.co.uk/;tel:+44 121 444 1317;
+352;Punjabi Rasoi;980 Warwick Road Acocks Green, B27 6QG, Birmingham B27 6QG England;;http://www.thenewpunjabirasoi.co.uk/;tel:+44 121 769 0411;mailto:info@thepunjabirasoi.co.uk?subject=?
+353;The Bull;1 Price Street, Birmingham B4 6JU England;;http://www.thebull-pricestreet.com/;tel:+44 121 333 6757;
+354;The Bristol Pear;676 Bristol Road, Birmingham B29 6BJ England;;https://www.pubswithmore.co.uk/thebristolpearbirmingham/?utm_source=google&utm_medium=local_seo_gmb&utm_content=website;tel:+44 121 414 9980;mailto:BristolPear.Birmingham@stonegatepubs.com?subject=?
+355;Handmade Burger Co.;Grand Central Stephenson Place Grand Central, Birmingham B2 4BF England;;http://handmadeburger.co.uk/our-restaurants/find-a-restaurant/handmade-burger-co-grand-central/;tel:+44 121 643 1621;mailto:info@handmadeburger.co.uk?subject=?
+356;Bilash;572 Kingstanding Road Kingstanding, Birmingham B44 9SD England;;http://www.bilashrestaurant.co.uk;tel:+44 121 373 3549;mailto:info@bilashrestaurant.co.uk?subject=?
+357;Malaysian Delight;8 Ladywell Walk, Birmingham B5 4ST England;;;tel:+44 121 622 3909;
+358;The Plaice Fish Bar;266 Baldwins Lane Hall Green, Birmingham B28 0XB England;;;tel:+44 7539 657020;mailto:s.p.y@hotmail.co.uk?subject=?
+359;7 Spices restaurant;1185 Bristol Road South, Birmingham B31 2SL England;;http://www.7spicesrestaurant.co.uk;tel:+44 7594 874557;mailto:eaemran@yahoo.com?subject=?
+360;Mela Rossa;42 Poplar Road Kings Heath, Birmingham B14 7AD England;;http://melarossarestaurant.co.uk;tel:+44 121 448 5150;mailto:contact@melarossarestaurant.co.uk?subject=?
+361;Akash Tandoori;1425 Pershore Road, Birmingham B30 2JL England;;http://www.chefonline.co.uk/akash-tandoori-west-midlands-bournville-birmingham-b30/menu;tel:+44 121 458 4109;
+362;The Junction;212 High Street Harborne, Birmingham B17 9PT England;;http://www.thejunctionharborne.co.uk/;tel:+44 121 428 2635;
+363;The Kangxi Imperial;2-14 Vivian Road Next To The Waitrose Superstore, Birmingham B17 0DS England;;http://www.imperialkangxi.com;tel:+44 121 427 5005;mailto:j_khazaelijoo@yahoo.co.uk?subject=?
+364;Earth's Kitchen;180 High Street Deritend, Birmingham B17 9PP England;;https://www.facebook.com/earthskitchen3/;;
+365;The Rose and Crown;Alcester Road Portway, Birmingham B48 7JD England;;http://www.roseandcrownportway.co.uk/;tel:+44 1564 822166;mailto:enquiries@roseandcrownportway.co.uk?subject=?
+366;The Lounge at The Cube Birmingham;Warrington Road, Birmingham England;;http://www.theclubandspabirmingham.co.uk/the-lounge;tel:+44 121 643 2200;
+367;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+368;Frankie & Benny's;Broadway Plaza Unit 8, Birmingham B16 8SP England;;https://www.frankieandbennys.com/restaurants/west-midlands/birmingham/broadway-plaza;tel:+44 121 456 4598;
+369;Ekachai Noodle Bar;Selfridges & Co, The Bullring Upper Mall East, Birmingham England;;http://www.ekachai.co.uk;;
+370;Summer House Bar & Grill;266 Shaftmoor Lane, Birmingham B28 8ST England;;http://www.summerhousebarandgrill.com;tel:+44 121 777 1926;mailto:info@summerhousebarandgrill.com?subject=?
+371;Ken Ho;41-43 Hurst Street, Birmingham B5 4BJ England;;http://kenhorestaurant.co.uk;tel:+44 121 622 2287;
+372;Fridays - Birmingham NEC;Unit Resorts World Birmingham 01 Pendigo Way Resorts World, Unit LG01, Birmingham B40 1NT England;;https://www.tgifridays.co.uk/;tel:+44 344 264 6051;mailto:birminghamnec@tgifridays.co.uk?subject=?
+373;Cafe Opus at Ikon;1 Oozells Square Brindley Place, Birmingham B1 2HS England;;http://www.opusrestaurant.co.uk/cafe-opus/;tel:+44 121 248 3226;mailto:cafeopus@outlook.com?subject=?
+374;China Garden;Stratford Road Hall Green, Birmingham England;;;tel:+44 121 745 5445;
+375;Al Frash;186 Ladypool Road 186 Ladypool Rd, Sparkbrook, Birmingham B12 8JS England;;http://www.alfrash.com/;tel:+44 121 753 3120;mailto:book@alfrash.com?subject=?
+376;Sorrento Lounge;91A Alcester Road Moseley, Birmingham B13 8DD England;;http://thelounges.co.uk/sorrento/;tel:+44 121 442 6623;mailto:sorrento@thelounges.co.uk?subject=?
+377;Monty's Deli Sandwich Bar;Colmore Gate 4 Colmore Row, Birmingham B3 2QD England;;http://www.facebook.com/Montys-Deli-Sandwich-Bar-101709596559809/;tel:+44 121 236 6607;
+378;Red Oven;607A Bearwood Road Bearwood, Birmingham B66 4BJ England;;http://www.redoven.co.uk/;tel:+44 121 429 2884;mailto:redovenbearwood@hotmail.com?subject=?
+379;The Balcony Bar & Brasserie;4th Floor, Selfridges & Co The Bullring, Birmingham B5 4BP England;;http://searcys.co.uk/venues/balcony-brasserie-selfridges/#.UoOYwKUfyFI;tel:+44 121 600 6869;mailto:thebalcony@selfridges.co.uk?subject=?
+380;Deli Hub By Kababish;Birmingham Airport Landside - Next door to Spa, Birmingham B26 3QJ England;;http://www.delihub.co.uk;tel:+44 121 767 8101;mailto:info@delihub.co.uk?subject=?
+381;Frankie & Bennys;Park Way Great Park, Birmingham B45 9PL England;;https://www.frankieandbennys.com/;tel:+44 121 453 0369;
+382;Westmead Hotel Bar & Cafe Lounge;Redditch Road Hopwood, Birmingham B48 7AU England;;http://westmeadhotel.co.uk/bar--cafe-lounge/;tel:+44 870 990 2260;mailto:enquiries@westmeadhotel.co.uk?subject=?
+383;Velvet Music Rooms;200 Broad Street, Birmingham B15 1SU England;;http://www.velvetmusicrooms.co.uk;tel:+44 121 248 0500;mailto:sales@velvetmusicroom.co.uk?subject=?
+384;The Floating Coffee Co;On the canal, Birmingham England;;http://sherbornewharf.co.uk/boat-trips/floating-coffee-company;tel:+44 121 454 5367;
+385;KAI Restaurant;1698 Bristol Road South Rednal, Birmingham B45 9TZ England;;https://www.facebook.com/KAIRestaurantBirmingham/;tel:+44 121 453 3338;mailto:kai@chef.net?subject=?
+386;Pulperia Brindley Place;3 Brindley Place, Birmingham B1 2JB England;;http://www.pulperia.co.uk;tel:+44 121 546 0594;mailto:info@pulperia.co.uk?subject=?
+387;Rola Wala;Upper Mall East, Selfridges Food Hall, The Bullring, Birmingham B5 4BP England;;http://www.rolawala.com;tel:+44 121 600 6754;mailto:info@rolawala.com?subject=?
+388;Omar Khayam;711 Bristol Road South Northfield, Birmingham B31 2JT England;;http://www.omar-khayam.co.uk;tel:+44 121 477 2161;mailto:ranaraj16@hotmail.com?subject=?
+389;Nata;25 Martineau Place, Birmingham B2 4UB England;;;tel:+44 121 236 5670;
+390;Barsana Pure Veg and Vegan Restaurant;352 Soho Road, Birmingham B21 9QL England;;http://www.barsanaindianrestaurant.com;tel:+44 121 439 4950;mailto:mshah5555@gmail.com?subject=?
+391;Balti Bazaar;1267-1269 Pershore Road Stirchley, Birmingham England;;https://www.facebook.com/pages/category/Indian-Restaurant/Balti-Bazaar-162132887134891/;tel:+44 121 459 4517;
+392;Lisa & Pann's Kitchen;65 Caroline Street Unit 39, Birmingham B3 1UG England;;https://www.facebook.com/lisapannkitchen/;tel:+44 121 687 0118;mailto:tan.leesa20@gmail.com?subject=?
+393;Slug & Lettuce;66 Broad Street Brindley Place, Birmingham B1 2HG England;;http://www.slugandlettuce.co.uk/birmingham;tel:+44 121 633 3049;mailto:slugandlettuce.birmingham@stonegatepubs.com?subject=?
+394;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+395;Old Damascus (Kings Heath);2 Alcester Road South, Birmingham B14 7PU England;;https://www.facebook.com/myolddamascus;tel:+44 121 441 4915;mailto:info@olddamascus.co.uk?subject=?
+396;The Fighting Cocks;1 St. Marys Row, Birmingham B13 8HW England;;http://www.thefightingcocksmoseley.co.uk;tel:+44 121 449 0811;mailto:enquiry@thefightingcocksmoseley.co.uk?subject=?
+397;Paellas Elena;Unit 3 Kings Road Industrial Estate Kings Road, Birmingham B11 2AX England;;https://www.facebook.com/paellaselena/;tel:+44 121 355 3833;mailto:paellaselena@gmail.com?subject=?
+398;Soda Bread Cafe;63 St Paul_s Square, Birmingham B3 1QS England;;https://www.facebook.com/Soda-Bread-Cafe-720740754793903/?ref=page_internal;tel:+44 121 236 4945;mailto:info@sodabreadcafe.com?subject=?
+399;RuGa Bistro;10 Pershore Street Ground Floor, Birmingham B5 4RU England;;http://en-gb.facebook.com/RuGa-Bistro-1849267558699656/;tel:+44 121 692 1928;
+400;Churchills;Wharfside Street 171-172 The Mailbox, Birmingham B1 1RL England;;http://www.churchills-birmingham.co.uk/;tel:+44 121 643 2072;mailto:contact@churchills-birmingham.co.uk?subject=?
+401;100 Degrees East;88 St. Marys Row, Birmingham B13 9EF England;;http://www.100degreeseast.co.uk/;tel:+44 121 449 7686;mailto:info@100degreeseast.co.uk?subject=?
+402;Ginger Tree Restaurant;98 Bell Lane Marston Green, Birmingham B33 0HX England;;http://www.gingertreerestaurant.co.uk;tel:+44 121 788 0077;mailto:info@gingertreerestaurant.co.uk?subject=?
+403;Kismet;322-326 Bradford Raod Castle Bromwich, Birmingham England;;http://www.kismetindianrestaurant.co.uk/;tel:+44 121 748 3496;
+404;De Everest Dine;11 Kings Road, Sutton Coldfield, Birmingham B73 5AB England;;http://www.deeverestdine.co.uk/birmingham/;tel:+44 121 355 5089;mailto:info@deeverestdine.co.uk?subject=?
+405;Chance & Counters;8 Courtyard, Custard Factory, Birmingham B9 4BG England;;http://www.chanceandcounters.com;tel:+44 121 296 9997;mailto:birmingham@chanceandcounters.com?subject=?
+406;Shogun Sushi & Noodle Bar;The Mailbox 113 Wharfside Street, Birmingham B1 1RF England;;http://www.shogunteppanyaki.com/;tel:+44 121 632 1253;mailto:shogunsushi@btconnect.com?subject=?
+407;Miss Macaroon;Colmore Row 8 Great Western Arcade, Birmingham B2 5HU England;;http://missmacaroon.co.uk/;tel:+44 121 238 3660;mailto:marketing@missmacaroon.co.uk?subject=?
+408;The Rectory;50-54 St. Pauls Square The Jewellery Quarter, Birmingham B3 1QS England;;http://www.therectorybirmingham.co.uk;tel:+44 121 605 1001;mailto:hello@therectorybirmingham.co.uk?subject=?
+409;Jimmy Spice's;Broad Street Regency Wharf, Birmingham B1 2DS England;;http://www.jimmyspices.co.uk/index.php;tel:+44 121 643 2111;mailto:birmingham@jimmyspices.co.uk?subject=?
+410;Hall Green Toby Carvery;1456 Stratford Road Hall Green, Birmingham B28 9ES England;;http://www.tobycarvery.co.uk/hallgreenbirmingham/;tel:+44 121 744 1041;
+411;Great Stone Inn;158 Church Road Northfield, Birmingham B31 2LU England;;https://www.greatukpubs.co.uk/thegreatstoneinnnorthfield/?utm_source=google&utm_medium=local_seo_gmb&utm_content=website;tel:+44 121 478 1254;
+412;Antep Turkish Cuisine;368-370 Ladypool Road, Birmingham B12 8JY England;;http://www.anteprestaurant.co.uk;tel:+44 121 238 3622;mailto:info@anteprestaurant.co.uk?subject=?
+413;The Red Couch;234 High Street, Birmingham B23 6SN England;;https://www.facebook.com/RedCouchBirmingham/;tel:+44 121 377 6272;
+414;Lychee Garden;189 Hagley Road Edgbaston, Birmingham B16 9RD England;;http://www.lycheegarden.co.uk;tel:+44 121 454 2734;
+415;Prezzo;106 High Street Unit 1 The School Yard, Birmingham B17 9NJ England;;https://www.prezzorestaurants.co.uk/find-and-book/search/?s=B17%209NJ&lng=0&lat=0&f=;tel:+44 121 427 4240;
+416;Daniel's Bistro;13 St. Marys Row Moseley, Birmingham B13 8HW England;;http://www.danielsbistro.co.uk/;tel:+44 121 449 9618;
+417;Ed's Easy Diner Birmingham - Selfridges;Bullring, Birmingham B5 4BP England;;http://www.edseasydiner.com/;tel:+44 121 600 6793;mailto:eds@edseasydiner.com?subject=?
+418;The Red Cow;296 High Street Smethwick, Birmingham B66 3NL England;;http://www.redcowpubandgrill.co.uk;tel:+44 121 558 0272;
+419;Hennessey's Bar;30-31 Allison Street Digbeth, Birmingham B5 5TJ England;;http://www.hennesseysbar.com/;tel:+44 121 643 3436;mailto:mail@hennesseysbar.com?subject=?
+420;Moghul;1184 Warwick Road Acocks Green, Birmingham B27 6BT England;;http://www.moghulrestaurant.com;tel:+44 7825 381331;mailto:info@moghulrestaurant.com?subject=?
+421;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+422;Rainbow Chinese Restaurant;59 High Street Kings Heath, Birmingham B14 7BH England;;http://rainbowrestaurantkh.com;tel:+44 121 444 4195;
+423;Bhaizans grill;46 Lozells Road, Birmingham B19 2TH England;;http://en-gb.facebook.com/pages/Bhaizans-Grill/;tel:+44 121 523 5336;
+424;Punjabi Dhaba;46 Poplar Road, Birmingham B14 7AG England;;http://punjabidahabagrill.com/our_menu.php;tel:+44 121 439 0624;
+425;The Rebel Chicken;Unit 1 19 Pitsford Street, Birmingham B18 6LJ England;;http://therebelchicken.co.uk;tel:+44 121 554 0177;mailto:reservations@therebelchicken.co.uk?subject=?
+426;Locanta;St Pauls Square 31 Ludgate Hill, Birmingham B3 1EH England;;http://www.locanta.com/;tel:+44 121 236 7227;mailto:info@locanta.com?subject=?
+427;The Farcroft Hotel BBQ Restaurant;Rookery Road Handsworth, Birmingham B21 9QY England;;http://thefarcroft.co.uk/BBQ/index.html;tel:+44 121 554 0957;mailto:info@thefarcroft.co.uk?subject=?
+428;MinMin Noodle Bar;The Wing Yip Centre 375 Nechells Park Road Unit 9, Birmingham B7 5NT England;;https://www.facebook.com/MinMinNoodle/;tel:+44 121 328 5348;
+429;Fahrenheit Grill Genting Casino Edgbaston;1 Norfolk Road Edgbaston, Birmingham B15 3PS England;;http://www.gentingcasinos.co.uk/casino/edgbaston-birmingham/;tel:+44 121 454 3725;
+430;Asia Asia Food Hall;1st & 2nd Floor 10 Pershore Street, Birmingham B5 4RX England;;http://www.asiaasiafoodhall.com;tel:+44 121 666 6777;mailto:info@asiaasiafoodhall.com?subject=?
+431;Gran Cafe;Selfridges, Exchange Square, Lower Ground Floor,, Birmingham B5 4BU England;;https://sancarlo.co.uk/restaurants/gran-cafe-manchester/;tel:+44 161 838 0571;mailto:grancafe@sancarlo.co.uk?subject=?
+432;The Ruin;92 Floodgate Street, Birmingham B5 5SR England;;http://www.theruindigbeth.com;tel:+44 121 643 5811;mailto:info@theruindigbeth.com?subject=?
+433;Kaffee Couture;21 Augusta Street Jewellery Quarter, Birmingham B18 6JA England;;https://www.facebook.com/Kaffee-Couture-780895165348577;tel:+44 121 293 2331;
+434;Al Faisals;140 Stoney Lane, Birmingham B12 8AQ England;;http://alfaisal.co.uk;tel:+44 121 449 5695;
+435;Sun on the Hill;Bennetts Hill, Birmingham England;;http://www.thesunonthehill.co.uk;tel:+44 121 448 7966;
+436;Vaibhavam;10A Northfield Road, Birmingham B17 0SS England;;http://www.vaibhavam.co.uk;tel:+44 121 427 7731;mailto:dchakravarthyc@gmail.com?subject=?
+437;One Trick Pony Club;93 Alcester Road Moseley, Birmingham B13 8DD England;;http://www.facebook.com/onetrickponyclub;tel:+44 121 442 3901;mailto:enquiry@onetrickponyclub.co.uk?subject=?
+438;Old Damascus (Coventry road);551 Coventry Road, Birmingham B10 0LP England;;http://www.old-damascus.co.uk;tel:+44 121 773 5229;mailto:info@old-damascus.co.uk?subject=?
+439;Rajpoot;1831/1833 Pershore Road Cotteridge, Birmingham B30 3DL England;;http://www.rajpootbirmingham.com;tel:+44 121 458 5604;
+440;Afternoon Tea at Hotel La Tour;85 Albert Street, Birmingham B5 5JT England;;http://hotel-latour.co.uk/events-and-offers-detail/afternoon-tea/;tel:+44 121 718 8000;mailto:hello@hotel-latour.co.uk?subject=?
+441;The Horseshoe Bar & Restaurant;1214 Stratford Road Hall Green, Birmingham B28 9BH England;;http://thehorseshoebar.co.uk;tel:+44 121 777 2340;mailto:info@thehorseshoebar.co.uk?subject=?
+442;Thania Spice;27a Alvechurch Road West Heath, Birmingham B31 3JW England;;http://thaniaspice.tripod.com/;tel:+44 121 477 6672;
+443;Coffee #1;Edmund House 12 Newhall Street Edmund House, Birmingham B3 3AS England;;http://www.coffee1.co.uk;tel:+44 121 233 4684;mailto:newhall@coffee1.co.uk?subject=?
+444;Nando's;B4100 Unit R2, Bullring & Grand Central Unit R2, Bullring & Grand Central, B4100, Birmingham B5 4BP England;;https://www.nandos.co.uk/eat/restaurants/birmingham-bullring;tel:+441216326866;
+445;Paprika;1619 Bristol Road South Longbridge, Birmingham B45 9UA England;;http://www.paprikalongbridge.co.uk;tel:+44 121 453 1122;
+446;Rumana's;953-955 Bristol Road South, Birmingham B31 2QT England;;https://rumanasthe-real-taste-of-asia.business.site/;tel:+44 121 477 5223;
+447;Balti Hut;1544-1546 Pershore Road, Birmingham B30 2NW England;;http://baltihutb30.co.uk/;tel:+44 121 459 7655;
+448;Vittoria Chinese Restaurant;60 Vittoria Street, Birmingham B1 3PB England;;http://Vittoriachinese.co.uk;tel:+44 121 439 8583;mailto:Vittoriajq@gmail.com?subject=?
+449;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+450;Pizza Express - Birmingham - Mailbox;The Mailbox 124-126 Wharfside Street, Birmingham B1 1XL England;;https://www.pizzaexpress.com/birmingham-mailbox?utm_source=listings&utm_medium=Places&utm_campaign=birmingham-mailbox;tel:+44 121 643 4016;mailto:social@pizzaexpress.com?subject=?
+451;Frankie and Benny's;Diamond House Terminal 1 Birmingham International Airport, Birmingham B24 9QB England;;https://www.frankieandbennys.com/;tel:+44 121 767 1410;mailto:concessions@trgplc.com?subject=?
+452;Shambhala Village;85A Soho Road, Birmingham B21 9SP England;;http://shambhala-village.com;tel:+44 121 551 3053;mailto:info@shambhala-village.com?subject=?
+453;The Village;179 Alcester Road, Birmingham B13 8JR England;;http://www.thevillagemoseley.co.uk;tel:+44 121 449 7664;mailto:hello@thevillagemoseley.co.uk?subject=?
+454;Han Dynasty;Station Street, Birmingham B5 4DY England;;http://handynasty.co.uk/en/birmingham.html;tel:+44 121 633 9396;
+455;Peach Garden;Unit 3, Wrottesley Street, Birmingham B5 4RT England;;;tel:+44 121 666 7502;
+456;Cafe House;107 Hawthorne Road Kingstanding, Birmingham B44 8QP England;;;tel:+44 121 243 1939;
+457;The Selly Park Tavern;592 Pershore Road, Birmingham B29 7HQ England;;http://www.emberinns.co.uk/thesellyparktavernsellyoak/;tel:+44 121 472 4392;
+458;Bistro Pierre;Waterside House 46 Gas Street Brindley Place, Birmingham B1 2JT England;;https://bistrotpierre.co.uk/locations/birmingham;tel:+44 121 616 0730;
+459;Pasha Turkish Charcoal Grill Restaurant;381 Dudley Road, Birmingham B18 4HB England;;http://www.pashaturkishgrill.co.uk/;tel:+44 121 454 4999;mailto:info@pashaturkishgrill.co.uk?subject=?
+460;Brades Tavern;48 Brades Road, Birmingham B69 2ET England;;https://www.facebook.com/Brades-Tavern-1902172526668040/;tel:+44 121 544 3888;
+461;Bistro 1837;1837 Pershore Road Cotteridge, Birmingham B30 3DJ England;;https://www.facebook.com/bistro1837;tel:+44 121 451 1907;
+462;The Ruby;115 New Road, Birmingham B45 9JR England;;;tel:+44 121 453 8283;
+463;Nando's;Birmingham England;;http://www.nandos.co.uk/restaurant/birmingham-broa;;
+464;Bun & Steak;1152 Stratford Road, Birmingham B28 8AF England;;https://www.facebook.com/bunandsteak/;tel:+44 7380 648871;mailto:bunandsteak@hotmail.com?subject=?
+465;Tahini Kitchen;145 - 153 Barford Street Digbeth, Birmingham B5 6AH England;;http://www.tahini-kitchen.co.uk;tel:+44 121 692 1945;mailto:tahinikitchen@gmail.com?subject=?
+466;Pepper Chef;Hurst Street Unit 1B, Birmingham B5 4TD England;;http://pepperchef.co.uk/;tel:+44 121 666 7799;mailto:info@pepperchef.co.uk?subject=?
+467;Loft Lounge;143 Bromsgrove Street, Birmingham B5 6RG England;;http://www.theloftlounge.co.uk/;tel:+44 121 622 2444;mailto:contact@theloftlounge.co.uk?subject=?
+468;Bhajee;1 Steyning Road, Birmingham B26 1HH England;;http://www.bhajee.net/;tel:+44 121 707 7774;
+469;Anatolia Cafe;Bearwood Road Smethwick, Birmingham England;;http://anatoliacaferestaurant.weebly.com/;tel:+44 1562 754555;
+470;Frankie and Benny's;Unit 5 Battery Retail Park Chapel Lane Selly Oak, Birmingham B29 6SJ England;;https://www.frankieandbennys.com/restaurants/west-midlands/birmingham/selly-oak;tel:+44 121 414 0049;
+471;Buffet Island;475 Tyburn Road Erdington, Birmingham B24 8DX England;;https://www.buffetisland.co.uk/;tel:+44 121 382 8382;
+472;San Carlo;4 Temple Street, Birmingham B2 5BN England;;http://www.sancarlo.co.uk;tel:+44 121 633 0251;mailto:birmingham@sancarlo.co.uk?subject=?
+473;Asian Feast Buffet Restaurant;138 Soho Road Handsworth, Birmingham B21 9LN England;;http://asianfeast.business.site;tel:+44 121 413 6363;mailto:asianfeastltd@gmail.com?subject=?
+474;Shawarma Makan;1-3 Priory Square The Square Shopping Centre, Birmingham B4 7LG England;;http://www.makan.co.uk;tel:+44 121 233 4987;mailto:admin@makan.co.uk?subject=?
+475;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+476;Grillz Steakhouse;1018 Coventry Road, Birmingham B25 8DP England;;https://www.facebook.com/grillzrestaurant;tel:+44 121 773 4559;
+477;Marco Pierre White Restaurants;85 Albert Street Hotel La Tour, Birmingham B5 5JT England;;http://mpwrestaurants.com;tel:+44 121 718 8000;mailto:enquiries@mpwchophousebirmingham.com?subject=?
+478;Sion Cocktail Bar & Dining;113-114, Birmingham England;;http://www.sioncocktailbar.co.uk;tel:+44 121 429 7209;
+479;York;196 York Road, Birmingham B28 8LE England;;http://york.miltonpubs.com/;tel:+44 121 778 6927;mailto:york@miltonpubs.com?subject=?
+480;Nom Nom Noodles;51-53 Spring Hill Hockley, Birmingham B18 7BH England;;http://www.facebook.com/pages/Nom-Nom-Noodles-Authentic-Vietnamese-Cuisine/160603960752911;tel:+44 121 679 6216;
+481;IKEA;Park Lane Wendesbury business park, Birmingham England;;http://www.ikea.com/gb/en/store/wednesbury/restaurant;;
+482;The Spice Exchange;1845-1847 Pershore Road Cotteridge, Birmingham B30 3DJ England;;http://spiceexchangeonline.co.uk/;tel:+44 121 451 1007;mailto:new.spice.exchange@hotmail.com?subject=?
+483;Kitchen Garden Cafe;17 York Road Kings Heath, Birmingham B14 7SA England;;http://www.kitchengardencafe.co.uk/index.php;tel:+44 121 443 4725;mailto:events@kitchengardencafe.co.uk?subject=?
+484;Aria Restaurant;2 Bridge Street The Hyatt Regency Hotel, Birmingham B1 2JZ England;;http://www.hyatt.com/en-US/hotel/england-united-kingdom/hyatt-regency-birmingham/birmi/dining?src=prop_misc_birmi_other_tripadvisor_aria;tel:+44 121 643 1234;mailto:birmingham.regency@hyatt.com?subject=?
+485;Cedar's Lebanese;169 Mary Street Balsall Heath, Birmingham B12 9RN England;;http://www.cedarlebanesefood.co.uk;tel:+44 7508 530111;mailto:cedarslebanesefood@hotmail.com?subject=?
+486;Cardamom Restaurant;350 High Street Harborne, Birmingham B17 9PU England;;http://cardamom-harborne.co.uk;tel:+44 121 427 1060;
+487;Johnny Wong's;197 Hagley Road, Birmingham B16 9RD England;;https://www.facebook.com/newjohnnywongs/;tel:1214-14564333;
+488;Deedar Indian Restaurant;14 Barnt Green, Birmingham B45 8NE‎ England;;http://www.indianrestaurantdeedar.co.uk;tel:+44 121 447 7692;
+489;Bombay Mix;Broad Street, Birmingham England;;;tel:+44 121 643 0756;
+490;Deepalis;1A Alfred Road B11 4PB, Birmingham B11 4PB England;;http://www.deepalisrestaurant.co.uk/;tel:+44 121 265 4726;mailto:info@deepalisrestaurant.co.uk?subject=?
+491;Boulevard Restaurant;Harbet Drive Hilton Birmingham Metropole Hotel, National Exhibition Centre, Birmingham B40 1PP England;;http://www3.hilton.com/en/hotels/united-kingdom/hilton-birmingham-metropole-BHXMETW/dining/index.html;tel:+44 121 780 6229;
+492;The Florence;106-110 Edmund Street, Birmingham B3 2ES England;;http://theflorencebirmingham.co.uk/;tel:+44 121 599 0223;mailto:hello@theflorencebirmingham.co.uk?subject=?
+493;Afrikana;359 Ladypool Road, Birmingham B12 8LA England;;https://www.facebook.com/afrikanabham/;tel:+44 121 439 8118;
+494;1900 Steakhouse Bar and Grill;53 Edgbaston Park Road Edgbaston Park Hotel, Birmingham B15 2RS England;;https://www.edgbastonparkhotel.com/dining/;tel:+44 121 414 8888;mailto:restaurant@edgbastonparkhotel.com?subject=?
+495;Al Qamar;51 Vincent Street, Birmingham B12 9TP England;;https://www.facebook.com/AlQamarResturantBham/;tel:+44 121 440 1407;
+496;The Lodge Cafe;Aldridge Road Tameside Way At the entrance to the Travelodge Hotel, Birmingham B42 2UB England;;;tel:+44 121 356 4611;
+497;Big Man's Food;8 Wolverhampton Road, Birmingham B68 0LH England;;http://www.bigmansfood.com/;tel:+44 121 420 2000;
+498;Tikka Town;1A Manor Park Road, Birmingham B36 0DG England;;http://www.tikkatowntakeaway.co.uk/;tel:+44 121 749 5666;mailto:hello@tikkatown.co.uk?subject=?
+499;Deli Heaven;22 Caroline Street, Birmingham B3 1UE England;;;tel:+44 121 233 9025;
+500;Hee Japanese Cuisine;707 Bristol Road South, Birmingham B31 2JT England;;http://heesushi.co.uk;tel:+44 121 476 0006;
+501;The Wellington;37 Bennetts Hill, Birmingham B2 5SN England;;;;
+502;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+503;Taste Collective;Mell Square Solihull, Birmingham B91 3AY England;;http://tastecollectivesolihull.co.uk/;tel:+44 121 725 8809;mailto:info@tastecollective.co.uk?subject=?
+504;The Mount Tavern;136 Kings Road Kingstanding, Birmingham B44 0SH England;;;tel:+44 121 355 3189;
+505;Dough and Bun;334-336 Bromford Lane Washwood Heath, Birmingham B8 2SD England;;http://doughandbun.co.uk;tel:+44 121 328 0387;mailto:info@doughandbun.co.uk?subject=?
+506;Cg's Cafe;Bradford Court 123-131 Bradford Street Digbeth, Birmingham B12 0NS England;;http://www.cgscafe.co.uk/;tel:+44 121 753 2853;mailto:Food@cgscafe.co.uk?subject=?
+507;Bader Restaurant;396 Coventry Road Small Heath, Birmingham B10 0UF England;;http://baderrestaurant.co.uk;tel:+44 121 766 5799;mailto:contact@baderrestaurant.com?subject=?
+508;Friendly Fire Restaurant;101-102 Three Shires Oak Road Bearwood, Birmingham B67 5BT England;;http://friendlyfiregrill.co.uk/;tel:+44 7468 496330;
+509;Pizza Express Moseley;93A Alcester Road Moseley, Birmingham B13 8DD England;;https://www.pizzaexpress.com/moseley?utm_source=listings&utm_medium=Places&utm_campaign=moseley;tel:+44 121 449 3111;mailto:moseley.manager@pizzaexpress.com?subject=?
+510;Harborne Fish Bar;2 Northfield Road, Birmingham B17 0SS England;;https://www.facebook.com/pages/category/Fast-Food-Restaurant/Harborne-Fish-Bar-236058653097585/;tel:+44 121 427 7759;mailto:harbornefishbar@gmail.com?subject=?
+511;The Vine;22 High Street, Birmingham SG12 9BY England;;;tel:+44 121 428 3946;mailto:info@thevineware.co.uk?subject=?
+512;The World Bar;Pendigo Way, Birmingham B40 1PU England;;https://www.resortsworldbirmingham.co.uk/eat-drink/world-bar;tel:+44 121 273 1000;
+513;Wychall Fish Bar;234 Wychall Road, Birmingham B31 3AU England;;https://www.facebook.com/wychallfishbar/;tel:+44 121 458 3805;mailto:wychallfishbar@gmail.com?subject=?
+514;Curry Club;Birmingham B36 0JE, England 262E Chester Road, Birmingham B36 0JE England;;https://www.facebook.com/curryclubb36/;tel:+44 121 238 8475;mailto:curryclubb36@gmail.com?subject=?
+515;Khayyam Restaurant;135 Tennant Street, Birmingham B15 1EY England;;http://www.khayyam-restaurant.com;tel:+44 121 643 0677;mailto:info@khayyam-restaurant.com?subject=?
+516;Hastingwood Cafe;Wood Lane Erdington, Birmingham B24 9QR England;;http://www.hastingwoodcafe.co.uk;tel:+44 121 386 6610;mailto:hastingwoodcafe@hotmail.com?subject=?
+517;Kurdistan Hall Restaurant;17 Rookery Road, Birmingham B21 9QP England;;https://www.facebook.com/Kurdistan-Restaurant-264605210251573;tel:+44 7761 636081;mailto:sarkoaol@aol.com?subject=?
+518;The Aston Tavern;10 Aston Hall Road Aston, Birmingham B6 7FF England;;http://www.astontavern.co.uk;tel:+44 121 328 0095;mailto:info@astontavern.co.uk?subject=?
+519;Le Keux;Zellig Building The Custard Factory Gibb Street, Birmingham B9 4AT England;;http://www.custardfactory.co.uk/directory/le-keux-vintage-salon/;tel:+44 121 224 7377;mailto:bookings@lekeuxevents.co.uk?subject=?
+520;Desi by Imlees;562 - 564 Moseley Road, Balsall Heath B12 9ad, Birmingham England;;http://www.desiimleesrestaurant.co.uk/;tel:+44 121 449 4495;mailto:info@siimleesrestaurant.co.uk?subject=?
+521;Edwards Cafe Bar;28 Goosemoor Lane Erdington, Birmingham B23 5PN England;;https://www.facebook.com/pg/EdwardsResturant/posts/;tel:+44 121 270 5552;mailto:bookings@brittonscaterers.co.uk?subject=?
+522;Fridays - Birmingham;180 Hagley Road, Birmingham B16 9NY England;;https://www.tgifridays.co.uk/;tel:+44 344 692 0225;mailto:birmingham@tgifridays.co.uk?subject=?
+523;The Barrel Bar And Grill;322 Summer Lane, Birmingham B19 3RG England;;http://www.facebook.com/thebarrelbirmingham/;tel:+44 7404 053929;mailto:TheBarrelBarAndGrill@gmail.com?subject=?
+524;Longbridge Beefeater;2 College Street Longbridge, Birmingham B31 2US England;;https://www.beefeater.co.uk/en-gb/locations/west-midlands/longbridge?cid=yext_40536505;tel:+44 121 270 7163;mailto:birminghamsouth.beefeater@whitbread.com?subject=?
+525;Green's Cocktail Lounge;Mell Square Solihull, Birmingham B91 3AY England;;http://www.greens-solihull.co.uk/;tel:+44 121 716 3222;mailto:info@greens-solihull.co.uk?subject=?
+526;Shazanz;182A Lozells Road Lozells, Birmingham B19 1PA England;;http://www.shazanz.co.uk;tel:+44 121 554 2555;mailto:shazanz@live.co.uk?subject=?
+527;Shogun Teppan-Yaki;The Waters Edge, Brindley Pl, Birmingham B1 2HL England;;http://www.shogunteppanyaki.com;tel:+44 121 643 8800;
+528;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+529;Buffet Island;Queslett Road Great Barr, Birmingham B43 7TN England;;http://buffetisland.com/;tel:+44 121 366 6028;mailto:greatbarr@buffetisland.com?subject=?
+530;Bailey's Caribbean Restaurant Limited;103 New Town Row, Birmingham B6 4HG England;;https://www.facebook.com/baileys9872/;tel:+44 121 679 2893;
+531;Khyber Pass;104 Alum Rock Road, Birmingham B8 1HU England;;;;
+532;Restaurant Bar A Jee;265 Broad Street, Birmingham B1 2DS England;;http://www.restaurantbarajee.com/location.html;;mailto:info@restaurantbarajee.com?subject=?
+533;The Charlie Hall;49 Barnabas Road, Birmingham B23 6SH England;;http://www.jdwetherspoon.co.uk;tel:+44 121 384 2716;
+534;The Royal Oak;Manor Lane Halesowen, Birmingham B62 8PZ England;;http://www.emberinns.co.uk/nationalsearch/eastandwestmidlands/the-royal-oak-halesowen;tel:+44 121 421 5371;
+535;No42 Indian restaurant & coffee;42 Poplar Road Kings Heath, Birmingham B14 7AD England;;http://No42restaurant.co.uk;tel:+44 121 296 6774;mailto:Ibby1405@outlook.com?subject=?
+536;Ababeel;1069 Warwick Road, Birmingham B27 6QT England;;;tel:+44 121 448 6263;mailto:aba.beel@hotmail.com?subject=?
+537;Bangkok Cafe;Asia Asia Food Court, 10 Pershore Street Unit 8, Birmingham B5 4RU England;;http://www.penanglaksa.co.uk;tel:+44 7737 860400;mailto:thepenanglaksaco@gmail.com?subject=?
+538;Toby Carvery;2225 Coventry Road, Sheldon, Birmingham B26 3EH England;;http://www.tobycarvery.co.uk/sheldonbirmingham/;tel:+44 121 742 6201;
+539;Poncho Khana;502 Coventry Road, Birmingham B10 0UN England;;https://en-gb.facebook.com/PonchoKhana;tel:+44 121 773 0777;mailto:iftikharsyed@hotmail.co.uk?subject=?
+540;Pangaea;27 Poplar Road, Birmingham B14 7AA England;;http://www.pangaeacuisine.co.uk;tel:+44 121 441 2222;
+541;Brewer's Social;77 High Street, Birmingham B17 9NS England;;http://sadlersbars.co.uk;tel:+44 121 427 9570;mailto:harborne@sadlersales.co.uk?subject=?
+542;Eat;82-83 New Street, Birmingham B2 4BA England;;http://eat.co.uk/store-locations?full-list=true;tel:+44 121 632 5379;
+543;Giraffe;Terminal 1, Birmingham B26 3QJ England;;https://www.trgconcessions.co.uk/our-locations/location/Birmingham%20Airport;tel:+44 121 767 5628;mailto:concessions@trgplc.com?subject=?
+544;The Court Oak;Balden Road Harborne, Birmingham B32 2EH England;;http://www.sizzlingpubs.co.uk/thecourtoakharborne/;tel:+44 121 428 4533;mailto:sandra@connectingelement.co.uk?subject=?
+545;British Oak Public House;1364 Pershore Road Stirchley, Birmingham B30 2XS England;;http://www.facebook.com/British-Oak-786752981459400/;tel:+44 121 458 1758;mailto:bookingsbritishoak@gmail.com?subject=?
+546;Grillz Steakhouse;278-280 Ladypool Road, Birmingham B12 8JU England;;http://grillzsteakhouse.com;tel:+44 121 449 0476;mailto:grillzsteakhouse@hotmail.com?subject=?
+547;Scottish Steak Club;New Street Burlington Arcade, Birmingham B2 4JQ England;;http://www.macdonaldhotels.co.uk/scottishsteakclub;tel:+44 121 633 1737;
+548;Zumhof Biergarten;Progress Works 29 Heath Mill Lane, Birmingham B9 4AL England;;http://www.zumhof.co.uk/;tel:+44 161 817 3499;mailto:digbeth@zumhof.co.uk?subject=?
+549;Pizza Express - Harborne;153-155 High Street, Birmingham B17 9NP England;;https://www.pizzaexpress.com/harborne?utm_source=listings&utm_medium=Places&utm_campaign=harborne;tel:+44 121 427 6009;
+550;Mighty Bite Cafe;1223 Pershore Road, Birmingham England;;http://www.mighty-bite.co.uk/;tel:+44 121 459 2020;
+551;Silver Hake Fish Bar and Restaurant;17 Olton Boulevard East, Birmingham B27 7RR England;;http://www.facebook.com/Silver-Hake-Fish-Bar-and-Restaurant-700289936705387/;tel:+44 7763 271187;
+552;The Towers Inn;The Towers Inn 636 Walsall Road Great Barr, Birmingham B42 1EY England;;http://www.sizzlingpubs.co.uk/thetowersinngreatbarr/;tel:+44 121 358 4627;
+553;Damascena Coffee House;Flat 1 17-21 Heritage Court 15 Warstone Lane, Birmingham B18 6HP England;;http://damascena.co.uk/contact-us-jewellery-quarter/;tel:+44 121 233 9932;mailto:jq@damascena.co.uk?subject=?
+554;China Court;24 Ladywell Walk, Birmingham B5 4ST England;;http://www.chinacourtbirmingham.co.uk/;tel:+44 121 666 7031;
+555;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+556;Sangam Sweet Centre;334 Soho Road, Birmingham B21 9NA England;;;tel:+44 121 523 9905;
+557;Brownie's;108 High Street Coleshill, Birmingham B46 3BL England;;http://www.browniesb46.com;tel:+44 7808 775366;
+558;The Glee Club;The Arcadian 70 Hurst Street, Birmingham B5 4TD England;;http://www.glee.co.uk/eating;;
+559;Bournville Garden Centre;Bournville Garden Centre, Maple Road, Bournville Wyevale Garden Centre, Birmingham B30 2AE England;;http://britishgardencentres.com/bournville-garden-centre/?v=79cba1185463;tel:+44 121 472 0303;
+560;Simla Spice;34 Queslett Road Great Barr, Birmingham B43 6PL England;;http://www.simlaspice.com;tel:+44 121 360 0530;mailto:info@simlaspice.com?subject=?
+561;the station;7 High Street, Birmingham B14 7BB England;;;tel:+44 121 444 8749;
+562;The Balti Room;1509 Pershore Road, Birmingham B30 2JL England;;http://thebaltiroombirmingham.co.uk/;tel:+44 121 458 1247;mailto:mosh_hussain@hotmail.com?subject=?
+563;Big John's Highgate;291 Gooch Street Highgate, Birmingham B5 7JE England;;http://www.mybigjohns.com;tel:+44 121 446 4083;
+564;Milano;24 Ladywell Walk, Birmingham B5 4ST England;;;tel:+44 121 622 3999;
+565;Jordan's Cafe;9 The Green King's Norton, Birmingham B38 8SD England;;https://www.facebook.com/JordansCafeKingsNorton/;tel:+44 121 458 4454;
+566;Recess;1 Brunswick Square Brindleyplace, Birmingham B1 2HW England;;http://www.leisuretreats.co.uk/recess;tel:+44 121 643 1003;mailto:birminghambrindleyplace.recess@hilton.com?subject=?
+567;Tsukiji Japanese Restaurant;51 Station Street, Birmingham B5 4DY England;;http://www.Japanesetsukiji.co.uk;tel:+44 121 616 2888;mailto:info@japanesetsukiji.co.uk?subject=?
+568;Silly Sausage Cafe;Imex Business Park Flaxley Road Unit 2, Imex Business Park, Birmingham B33 9AL England;;;tel:+44 121 789 8404;
+569;Pizza Hut Birmingham New St;135/137 New Street, Birmingham B2 4NS England;;https://www.pizzahut.co.uk/restaurants/find-a-hut/birmingham/birmingham-new-st/?utm_source=google&utm_medium=maps&utm_content=birminghamNewst&utm_campaign=googleplaces;tel:+44 121 643 2080;
+570;Grace + James;23 York Road, Birmingham B14 7SA England;;https://www.facebook.com/graceandjameskh/;tel:+44 7834 557104;
+571;Chillies Indian Takeaway;156 Woodthorpe Road, Birmingham B14 6EQ England;;http://www.facebook.com/chillies.kingsheath;tel:+44 121 443 4439;mailto:chillies.kingsheath@gmail.com?subject=?
+572;Yorks Cafe;1 Oozells Square, Birmingham B1 2HS England;;http://www.yorkscafe.co.uk/yorks-ikon-gallery-birmingham;tel:+44 121 293 9186;mailto:ikon@yorkscafe.co.uk?subject=?
+573;Jacky's Kitchen;Unit 4 Southside, Bromsgrove St, Birmingham B5 6QB England;;;tel:+44 121 666 7187;
+574;Meatz Muntz St;15 Muntz Street, Birmingham B10 9SN England;;;tel:+44 121 439 7550;mailto:Meatzmuntzst@gmail.com?subject=?
+575;The Old Horns;Queslett Road Great Barr, Birmingham B43 7EQ England;;http://www.sizzlingpubs.co.uk/theoldhornsgreatbarr/;tel:+44 121 366 7248;
+576;Rose Villa Pub;58 Branston Street, Birmingham B18 6BP England;;http://therosevillatavern.co.uk;tel:+44 121 236 7910;
+577;Pizza Express - Birmingham The Citadel;4 The Citadel 190 Corporation Street, Birmingham B4 6QB England;;https://www.pizzaexpress.com/birmingham-the-citadel?utm_source=listings&utm_medium=Places&utm_campaign=birmingham-the-citadel;tel:+44 121 236 0221;mailto:birmingham1.manager@pizzaexpress.com?subject=?
+578;Channi's Indian Restaurant;795 Stratford Road, Birmingham B11 4DG England;;http://channis.wordpress.com/;tel:+44 121 778 6465;
+579;Induz Indian Restaurant;11 Kings road Sutton Coldfield, Birmingham B73 5AB England;;http://www.induz.net;tel:+44 121 355 5089;mailto:info@induz.net?subject=?
+580;Ruby Cantonese;2A Barnsley Road Edgbaston, Birmingham B17 8ED England;;http://rubychineserestaurantedgbaston.co.uk/chinese-cantones-restaurantedgbaston-menus;tel:+44 121 429 8805;
+581;Shahimahal;4 Coleshill Road Hodge Hill, Birmingham B36 8AA England;;http://www.shahimahal.co.uk/;tel:+44 121 783 3557;
+582;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+583;Manchester Seafood;1 Wrottesley Street, Birmingham B5 4RT England;;http://www.manchesterseafood.co.uk/restaurant;tel:+44 121 622 2546;
+584;Ladana Cafe;388 Stratford Road, Birmingham B11 4AB England;;https://ladanacafe.com/;tel:+44 121 688 0341;mailto:info@ladanacafe.com?subject=?
+585;Pershore House;1807 Pershore Road, Birmingham B30 3DN England;;;tel:+44 121 458 2068;
+586;Fuel Juice Bar;353 Bullring Shopping Centre, Birmingham B5 4BU England;;https://www.bullring.co.uk/eating/sandwiches-snacks/fuel-juice-bar;;
+587;Golden Cafe;191 High Street, Birmingham B23 6SY England;;https://www.facebook.com/pages/category/Cafe/Golden-Cafe-925845820775861/;tel:+44 121 373 1651;
+588;Attic Brew Co.;Maryvale Road, Birmingham B30 2DA England;;https://www.facebook.com/atticbrewco/;;mailto:beer@atticbrewco.com?subject=?
+589;The Gate;14 Studley Street, Birmingham B12 8JB England;;;tel:+44 7960 491619;
+590;Spice 27;2 Gospel Farm Road, Birmingham B27 7JN England;;;;
+591;Dilkhush;1462 Pershore Road, Birmingham B30 2NT England;;http://www.dilkhushb30.co.uk/;tel:+44 121 459 9258;
+592;Sundaes Gelato;160-162 Corporation Street, Birmingham B4 6TB England;;https://www.facebook.com/Sundaes-Gelato-Birmingham-559447674219120/;tel:+44 121 572 2240;
+593;Zaitoon;5B Bishopsgate Street, Birmingham B15 1DA England;;https://zaitoon-restaurant.co.uk/contact/;tel:+44 121 643 9576;
+594;Lickey Lips Cafe;By the Duck Pond, Lickey, Birmingham B45 8RT England;;;tel:+44 7808 774844;
+595;Ra Coffee House;25 High Street, Birmingham B14 7BB England;;https://www.facebook.com/Racoffees/;;
+596;Pizza4uwestheath;85 Fairfax Road, Birmingham B31 3SH England;;http://www.pizza4uwestheath.com/;tel:+44 121 476 6433;
+597;Chilli and Spice;1214 Stratford Road, Birmingham B28 9BH England;;http://thehorseshoebar.co.uk;tel:+44 121 777 2340;mailto:info@thehorseshoebar.co.uk?subject=?
+598;Fredericks Coffee Lounge and Bar;Regent House Frederick Street, Birmingham B1 3HR England;;http://www.fredericksbar.co.uk/;tel:+44 121 233 0313;mailto:info@fredericksbar.co.uk?subject=?
+599;German Doner Kebab;548-550 Moseley Road, Birmingham B12 9AD England;;http://www.germandonerkebab.com;tel:+44 121 655 0140;mailto:feedback@germandonerkebab.com?subject=?
+600;Red N Hot;35 Hurst Street, Birmingham B5 4BJ England;;http://www.rednhotgroup.com/;tel:+44 121 666 6076;
+601;Hopwood House;Redditch Road, Birmingham B48 7AB England;;http://www.hopwoodhousepub.co.uk;tel:+44 121 445 1716;mailto:hopwoodhouse.birmingham@marstons.co.uk?subject=?
+602;No 1 Chinese Cafe and Takeaway;22 Holloway, Birmingham B31 1TT England;;https://www.facebook.com/no1chinesecafe;;
+603;The Village Kitchen Rubery;147 New Road Rubery, Birmingham B45 9JW England;;https://www.facebook.com/TheVillageKitchenRubery/;tel:+44 121 243 3771;
+604;Slug and Lettuce;The Waters Edge Brindley Place, Birmingham B1 2HL England;;https://www.slugandlettuce.co.uk/birmingham?utm_source=google&utm_medium=local_seo_gmb;tel:+44 121 633 3049;mailto:slugandlettuce.birmingham@stonegatepubs.com?subject=?
+605;Badshah Palace Restaurant;Walsall Road, Birmingham B42 1LR England;;http://www.badshahpalacerestaurant.com;tel:+44 121 357 1897;mailto:mamun@badshahpalace.co.uk?subject=?
+606;The Olive Tree Cafe;Five Ways Island, Birmingham b16 8tg England;;http://www.facebook.com/olivetreecafe5ways;tel:+44 7518 471746;mailto:order@olivetreecafe.co.uk?subject=?
+607;Fletchers Bar and Eatery;No.7 York Road Kings Heath, Birmingham B14 7SA England;;http://www.fletchersbarandeatery.co.uk/;tel:+44 121 443 4725;mailto:fletchers@kitchengardencafe.co.uk?subject=?
+608;Snax and Ladders;41 Watford Road, Birmingham B30 1JB England;;;tel:+44 121 239 4414;
+609;Mandi House;382 Coventry Road, Birmingham B10 0UF England;;;tel:+44 121 766 6101;
+610;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+611;DeMaines of Moseley;31 St. Marys Row Moseley Birmingham, Birmingham B13 8HW England;;http://www.demaines.com;tel:+44 121 449 3070;
+612;Katsu Kitchen;Woodbridge Road Moseley, Birmingham England;;https://www.facebook.com/eatatkatsukitchen/;tel:+44 7710 807166;
+613;Nuvo Bar & Restaurant;2 Brunswick Square 11 Brindleyplace, Birmingham B1 2LP England;;http://www.nuvobar.com;tel:+44 121 631 1600;mailto:info@nuvobar.com?subject=?
+614;Ruby Cantonese Take Away;2A York Road, Birmingham B23 6TE England;;;tel:+44 121 377 8500;
+615;Genting Casino Star City Restaurant;Star City Watson Road, Birmingham B7 5SA England;;;tel:+44 121 327 8008;mailto:starcityhospitalitymanager@gentingcasinos.co.uk?subject=?
+616;Sports Bar & Grill;Pendigo Way, Birmingham B40 1PU England;;http://www.resortsworldbirmingham.co.uk/whats-here/bars-and-restaurants/sports-bar/;tel:+44 121 273 1145;mailto:rwbcasbar@gentingcasinos.co.uk?subject=?
+617;Golden Bamboo;296 Haunch Lane, Birmingham B13 0QS England;;http://www.goldenbamboo.co.uk;tel:+44 121 444 1145;
+618;The Stag And Three Horseshoes;Halesowen Road Quinton, Birmingham B62 9BB England;;http://www.sizzlingpubs.co.uk/thestagandthreehorseshoeshalesowen/;tel:+44 121 422 2176;mailto:thestagandthreehorseshoes@sizzlingpubs.co.uk?subject=?
+619;Toby Carvery;Chester Road North, Birmingham B37 7WF England;;http://tobycarvery.co.uk;tel:+44 121 353 7785;
+620;The Taste Of Italy;23 Edgewood Road, Birmingham B45 8SB England;;;tel:+44 121 628 1999;
+621;Arabella Lebanese Restaurant & Takeaway;37 Westley Road, Birmingham B27 7UQ England;;;tel:+44 121 238 2651;
+622;Kafe Lahore;141-143 Ladypool Road, Birmingham B12 8LH England;;http://www.kafelahore.co.uk;tel:+44 121 446 4442;mailto:spanish_z7@hotmail.com?subject=?
+623;Pepe's Piri Piri - Sutton Coldfield;439 Birmingham Road, Sutton Coldfield, Birmingham B72 1AX England;;http://www.pepes.co.uk;tel:+44 121 655 0280;
+624;Bugis Street Brasserie;Paradise Place Paradise Circus, Birmingham B3 3HJ England;;http://www.millenniumhotels.co.uk/copthornebirmingham/dining/bugis-street-brasserie.html;tel:+44 121 200 2727;mailto:bugis.birmingham@millenniumhotels.co.uk?subject=?
+625;Ajwa Restaurant;1268 Pershore Road, Birmingham B30 2XU England;;http://www.ajwarestaurant.co.uk;tel:+44 121 433 4333;
+626;Morridge oats + coffee;14 Temple Row Great Western Arcade, Birmingham B2 5HG England;;http://www.morridge.co.uk;;
+627;Sarah's diner;Halesowen Caravan Centre, Birmingham England;;;tel:+44 7813 289834;
+628;Master Park's Kitchen;Birmingham B5 5JN England;;http://master-parks-kitchen.business.site/;tel:+44 7414 954040;
+629;Muang Chang;462 Lickey Road, Birmingham B45 8UU England;;http://www.muangchang.co.uk/;tel:+44 121 453 5739;
+630;Hookahs;478 Moseley Road Sparkhill, Birmingham B12 9AN England;;http://www.hookahs.biz;tel:+44 121 440 8154;mailto:hello@hookahs.biz?subject=?
+631;Monmo's Peri Peri Grill;Stratford Road Hall Green, Birmingham B28 8AD England;;https://monmos-peri-peri-grill.business.site/;tel:+44 121 777 7575;
+632;Griddle Street;1110 Stratford Road Hall Green, Birmingham B28 8AE England;;;tel:+44 121 777 0604;mailto:griddlestreet@outlook.com?subject=?
+633;The Pear Tree;25-27 Alcester Road South, Birmingham B14 7JQ England;;http://www.jdwetherspoon.com/pubs/all-pubs/england/west-midlands/the-pear-tree-birmingham;tel:+44 121 441 6710;mailto:p2053@jdwetherspoon.co.uk?subject=?
+634;Nakodar Sweets & Restaurant;112 Soho Road, Birmingham B21 9DP England;;https://www.facebook.com/Nakodar-Sweets-Restaurant-1652465138310950/;tel:+44 121 523 4234;
+635;Fogg's Restaurant;Ambassador Road, Birmingham B26 3AW England;;http://restaurants.accorhotels.com/gb/restaurant-6359_R001-fogg-s-birmingham.shtml;;
+636;The Green Man;2 High Street, Birmingham B17 9NE England;;http://www.emberinns.co.uk/nationalsearch/eastandwestmidlands/the-green-man-harborne/food;tel:+44 121 428 3581;
+637;CJ's Cafe;72 Windleaves Road, Birmingham B36 0BT England;;https://www.facebook.com/cjscafe1/;tel:+44 121 749 5044;mailto:cafecjs@gmail.com?subject=?
+638;Popular Balti Tandoori;139 Ladypool Road Sparkbrook, Birmingham B12 8LH England;;;tel:+44 121 440 0014;
+639;King Kebab;85 High Street, Birmingham B14 7BH England;;;tel:+44 121 443 2550;
+640;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+641;Alaturka Turkish Cuisine;300-302 Ladypool Road, Birmingham B12 8JY England;;;tel:+44 121 449 4474;
+642;Welcome Takeaway;144 Priory Road, Birmingham B28 0TB England;;;tel:+44 121 474 3130;
+643;The Centurion;Chelmsley Wood, Birmingham, West Midlands Forth Drive, Birmingham B37 6PR England;;http://www.centurionbirmingham.co.uk/index;tel:+44 121 779 7628;mailto:info@centurionbirmingham.co.uk?subject=?
+644;Plough and Harrow Hotel;135 Hagley Road, Birmingham B16 8LS England;;http://www.ploughandharrowhotel.co.uk;tel:+44 121 454 4111;mailto:reception@ploughandharrowhotel.co.uk?subject=?
+645;Shobha's;Kiosk 4 Watson Road Star City, Nechells, Birmingham, Birmingham B7 5SA England;;http://www.shobhasonline.com;tel:+44 121 328 9922;
+646;Simarik;1373 Pershore Road Inside Cork & Cage, Birmingham B30 2JR England;;https://corkandcage.co.uk/;tel:+44 7907 984554;
+647;Sara;19-21 Grove Lane 22 Wake Green Road, Birmingham B21 9ES England;;;;
+648;Namak Mandi - Taste of KPK;588 Coventry Road, Birmingham B10 0US England;;http://www.namakmanditasteofkpk.com/;tel:+44 121 773 3555;
+649;Mr.Idly;169-171 Hagley Road, Birmingham B16 8UQ England;;http://www.mridly.uk/;tel:+44 121 454 1111;mailto:admin@mridly.uk?subject=?
+650;Cafe Face;519 Bristol Road, Birmingham B29 6AU England;;;tel:+44 121 415 4651;
+651;Castle snax;124B Weoley Castle Road, Birmingham B29 5QD England;;;tel:+44 121 475 4545;
+652;Spice Balti;4 Northfield Road, Birmingham B17 0SS England;;http://www.chefonline.co.uk/spice-balti-harborne-birmingham-b17/menu;tel:+44 121 427 2559;
+653;Slice Of New York;154 Yardley Road, Birmingham B27 6LR England;;http://www.sliceofnewyork.uk;tel:+44 121 572 9090;
+654;Semedos;54 Warstone Lane, Birmingham B18 6NG England;;http://www.semedosonline.co.uk;tel:+44 121 233 2288;
+655;52 Gas Street;52 Gas Street, Birmingham B1 2JT England;;http://www.52gasstreet.co.uk;tel:+44 121 291 5288;mailto:info@52gasstreet.co.uk?subject=?
+656;Summer House Bar and Grill;266 Shaftmoor Lane The Shaftmoor Pub, Birmingham B28 8ST England;;http://www.summerhousebarandgrill.com/;tel:+44 121 777 1926;mailto:info@summerhousebarandgrill.com?subject=?
+657;Take A Big Bite Cafe;11 Quinton Road West, Birmingham B32 2QA England;;https://www.facebook.com/pages/category/Cafe/Take-a-big-bite-cafe-496164833792693/;tel:+44 121 427 1212;
+658;Fish & Olive;51 Boldmere Road, Birmingham B73 5UY England;;https://www.facebook.com/fishandolivecaferestaurant/;tel:+44 121 792 8440;mailto:fishandolivecaferestaurant@gmail.com?subject=?
+659;The Tikka Hut;71 Bottetourt Road, Birmingham B29 5TF England;;http://thetikkahut.co.uk;tel:+44 121 244 1472;mailto:info@thetikkahut.co.uk?subject=?
+660;The One Fish Bar;12 School Road Yardley Wood, Birmingham B14 4BJ England;;https://www.facebook.com/TheOneFishbar/;tel:+44 121 430 7880;
+661;Cast Iron Bar & Grill;Maxstoke Lane, Meriden Forest of Arden Marriott Hotel & Country Club, Birmingham CV7 7HR England;;http://www.tableresmarriott.com/cast-iron-bar-grill-restaurant-birmingham-airport-nec-forest-of-arden;tel:+44 1676 522335;
+662;Yew Tree Cottage Indian Restaurant;Indian Restaurant Indian Restaurant 43 Stoney Lane, Birmingham B25 8RE England;;http://yewtree-cottage.co.uk/the-restaurant/;tel:+44 121 784 0707;mailto:info@yewtree-cottage.co.uk?subject=?
+663;Tahini;325 Dudley Road, Birmingham B18 4HB England;;;tel:+44 121 456 3238;
+664;Song Tuoi;Latitude 155 Bromsgrove Street, Birmingham B5 6AB England;;http://www.missvietnam.co.uk;tel:+44 121 622 5444;
+665;Mackadown Chippy;66 East Meadway, Birmingham B33 0AP England;;http://www.mackadownchippy.com;tel:+44 121 789 9886;
+666;Wi Jammin;22 Soho Hill, Birmingham B19 1AA England;;http://www.facebook.com/Wi-jammin-1543283759241721/;tel:+44 121 554 7730;
+667;MBM Trinbago Meals;Birmingham B66 3DB England;;http://www.facebook.com/111542617204851/posts/159114502447662/;tel:+44 7792 557204;mailto:melinda.williams@live.co.uk?subject=?
+668;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+669;Chung Ying;1006 Chester Road, Birmingham B24 0LL England;;;tel:+44 121 384 2546;
+670;Craft Inn Jewellery Quarter;166 Warstone Lane Unit 6, Birmingham B18 6NN England;;;;mailto:jq@craft-inn.uk?subject=?
+671;Kings Balti;264 Kings Road, Birmingham B44 0SA England;;http://www.kings-baltionline.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=google%20places;tel:+44 121 355 5666;
+672;Shree Foods Limited;101 Dudley Road East, Birmingham B69 3DU England;;;;
+673;Devlin's CAFE;The Green, Birmingham England;;;tel:+44 121 729 6603;
+674;Chocolate Heaven Cafe;Bristol Rd South Unit 4, Northfield Shopping Centre, Birmingham B31 2JU England;;http://www.chocolateheavencafe.com;tel:+44 121 477 8768;mailto:info@chocolateheavencafe.com?subject=?
+675;Sainsbury's;Longbridge Railway Station Longbridge Lane, Birmingham B31 2TW England;;http://www.sainsburys.co.uk;tel:+44 121 480 4520;
+676;Marlboro Cafe;60 Greenholm Road Perry Barr, Birmingham B44 8HL England;;;tel:+44 121 356 0509;mailto:david.smith30@btinternet.com?subject=?
+677;Lahore Cottage Ltd;171 Mary Street, Birmingham B12 9RN England;;;tel:+44 121 448 2191;mailto:zeeshan999999@gmail.com?subject=?
+678;The Sisters Cafe;253 Highters Heath Lane, Birmingham B14 4NX England;;https://www.facebook.com/sisterscafehighters;tel:+44 121 436 7545;
+679;Apna Lahore Restaurant;122 Ladypool Road, Birmingham B12 8JA England;;https://www.facebook.com/apnalhr/;tel:+44 121 572 2130;
+680;Kohinur Kebab House;437 Dudley Road, Birmingham B18 4HD England;;https://www.facebook.com/Koh-i-Nur-Kebab-House-813809235400633/;tel:+44 121 439 4480;mailto:Saqib50@live.co.uk?subject=?
+681;Manjaros;207 Stratford Road, Birmingham B11 1QT England;;http://manjaros.co.uk/contact.html;tel:+44 7557 514143;mailto:info@manjaros.co.uk?subject=?
+682;Olive Tree;Hagley Road Five Ways, Birmingham B15 1DT England;;https://www.facebook.com/olivetreecafe5ways;tel:+44 7403 771191;mailto:order@olivetreecafe.co.uk?subject=?
+683;Karibunis Restaurant at Bournville College;1 Longbridge Lane Longbridge, Birmingham B31 2AJ England;;https://www.sccb.ac.uk/about-us/karibunis;tel:+44 121 477 1558;mailto:info@bournville.ac.uk?subject=?
+684;Titash Indian Restaurant;2278 Coventry Road, Sheldon, Birmingham B26 3JR England;;http://titashindianrestaurant.com/our_menu.php;tel:+44 121 722 2080;mailto:titashcontemporary@hotmail.co.uk?subject=?
+685;Meer Shisha Lounge & Restaurant;81-91 John Bright Street, Birmingham B1 1BL England;;http://www.facebook.com/Meer-Shisha-Lounge-Restaurant-415698955218323;tel:+44 121 643 8866;
+686;City Fryer;145 Dudley Road, Birmingham B18 7QY England;;;tel:+44 121 455 0390;
+687;Chop  & Wok;352 Bordesley Green East Stechford, Birmingham B33 8QB England;;http://chopandwok.co.uk/contact-us/bordesley-green-east-stechford;tel:+44 121 783 3995;mailto:info@chopandwok.co.uk?subject=?
+688;Sultan Of India;710 Chester Road, Birmingham B23 5TE England;;https://www.facebook.com/1580restaurant/;tel:+44 121 439 4243;mailto:sultanofindia@outlook.com?subject=?
+689;Aria's Afghan Cuisine;40 Cape Hill Smethwick, Birmingham B66 4PB England;;;tel:+44 121 679 2882;
+690;Sylhetspice cuisine;27-29 York Road, Birmingham B14 7SA England;;http://www.sylhetspice.co.uk;tel:+44 121 444 6644;
+691;Philpotts;12a Broadway Plaza Francis Road, Birmingham B16 8LP England;;http://www.philpotts.co.uk/;tel:+44 121 452 1024;
+692;Light of Bengal;470 College Road, Birmingham B44 0HL England;;http://www.lightofbengalb44.co.uk;tel:+44 121 384 4684;mailto:abdulnassar38@gmail.com?subject=?
+693;Festival Balti;Unit C4 The Arcadian 70 Hurst Street Hurst Street, Birmingham B5 4TD England;;http://www.festivalbalti.co.uk;;
+694;Ruby;104 High Street, Birmingham B17 9NJ England;;http://www.rubyharborne.co.uk/;tel:+44 121 427 3943;
+695;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+696;D.J. Quinn's;327 Highfield Road, Birmingham B28 0BX England;;http://www.djquinns.com;tel:+44 121 777 5267;mailto:info@djquinns.com?subject=?
+697;The Pit Stop Cafe;41 Pershore Road South, Birmingham B30 3EG England;;https://www.facebook.com/sillysausages123/?rf=211481152626241;tel:+44 121 451 3236;
+698;8 Bowls;121 Hurst Street, Birmingham B5 6SE England;;;tel:+44 121 666 6611;
+699;Urban Breakfast;Jewellery Quarter, Birmingham B18 6BG England;;http://www.urbanbreakfast.co.uk/;tel:+44 121 285 2999;mailto:Birmingham@urbanbreakfast.co.uk?subject=?
+700;Canton Kitchen;83 Turves Green, Birmingham B31 4AH England;;https://cantonkitchen.co.uk/;tel:+44 121 476 7663;
+701;Kilder;5 Shaw_s Passage Digbeth, Birmingham B5 5JG England;;https://www.kilderbar.co.uk/;tel:+44 121 643 2546;
+702;About 8;8 Centenary Square, Birmingham B1 2EA England;;http://www.about8.co.uk;tel:+44 333 772 9329;mailto:8@about8.co.uk?subject=?
+703;Pure Vegi;324 Soho Road, Birmingham B21 9NA England;;http://purevegi.com/;tel:+44 121 554 7949;
+704;Menzies Birmingham City Restaurant;225 Hagley Road Birmingham City – Strathallan, Birmingham B16 9RY England;;http://www.menzieshotels.co.uk/hotels/midlands/birmingham-city-strathallan/dining-and-banqueting/;tel:+44 121 455 9777;mailto:strathallan@menzieshotels.co.uk?subject=?
+705;Walkabout;266a-271 Broad Street Langley Building, Regency Wharf, Birmingham B1 2DS England;;https://www.walkaboutbars.co.uk/venues/birmingham/?utm_source=google&utm_medium=local_seo_gmb&utm_content=website;tel:+44 121 632 5712;mailto:walkabout.birmingham@stonegatepubs.com?subject=?
+706;Talk of the Town;62-64 Corporation Street, Birmingham B2 4UX England;;;tel:+44 7976 363789;
+707;San Marino Pizza;1399 Pershore Road, Birmingham B30 2JR England;;http://www.sanmarino-b30.co.uk/;tel:+44 121 486 2442;
+708;Tai Po Chinese Takeaway;1610 Coventry Road, Birmingham B26 1AL England;;;tel:+44 121 706 5311;mailto:amy.hn7@gmail.com?subject=?
+709;Broadway Kebab House;139 The Broadway, Birmingham B20 3ED England;;;tel:+44 121 356 9030;
+710;Ivy's Cafe and Ale Room;161 Church Rd Yardley, Birmingham England;;https://www.facebook.com/Ivys-Cafe-and-Ale-room-103503761071295/?ref=page_internal;tel:+44 7876 158325;mailto:ivyscafe19@gmail.com?subject=?
+711;Eastern Flavour indian and Bangladeshi takeaway;15 station Road, Birmingham England;;;tel:+44 121 350 0777;
+712;B1;Central Square, Birmingham B1 1HH England;;http://www.ihg.com/crowneplaza/hotels/gb/en/birmingham/bhxct/hoteldetail;tel:+44 121 224 5000;
+713;Metropole Lounge Bar;Pendingo Way Hilton Birmingham Metropole, Birmingham B40 1PP England;;http://www3.hilton.com/en/hotels/united-kingdom/hilton-birmingham-metropole-BHXMETW/index.html?WT.mc_id=zELWAKN0EMEA1HI2DMH3LocalSearch4DGGenericx6BHXMETW;tel:+44 7779 805023;mailto:birminghammetropolelounge@gmail.com?subject=?
+714;New Station Fish and Chips;159 Station Road Stechford, Birmingham B33 8BA England;;;tel:+44 121 572 4483;
+715;Ikea Birmingham Central Order & Collection Point;Dale House 31 Dale End, Birmingham B4 7LN England;;http://m.ikea.com/gb/en/pages/stores/birmingham-order-collect-point/;;mailto:customer.service@ikea.com?subject=?
+716;Bardolino Birmingham;10 Commercial Street Mailbox District, Birmingham B1 1RS England;;http://mpwrestaurants.co.uk/our-brands/bardolino/birmingham/;tel:+44 121 634 3433;mailto:info@bardolinobirmingham.co.uk?subject=?
+717;Happy Gardens;108 Thistledown Road, Birmingham B34 7EF England;;;tel:+44 121 748 1739;
+718;Nando's Birmingham - Grand Central;Station Street Unit 34, Bull Ring & Grand Central, Birmingham B2 4XJ England;;https://www.nandos.co.uk/eat/restaurants/birmingham-grand-central;tel:+441216333575;
+719;Taste Of Khyber;20 Alum Rock Road, Birmingham B8 1JB England;;https://www.facebook.com/Taste-Of-Khyber-Birmingham-382090941908772/;tel:+44 121 328 7733;mailto:tasteofkhyber@gmail.com?subject=?
+720;Nicks Sandwich Bar;a38 South Bound, Birmingham England;;;tel:+44 7778 725746;
+721;The Dog Inn;Marsh Lane Water Orton, Birmingham B46 1NW England;;http://thedoginnwaterorton.co.uk/food/;tel:+44 121 747 2413;mailto:thedoginnpub@hotmail.co.uk?subject=?
+722;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+723;Costa Coffee;Unit 7, Selly Oak Retail Park, Harborne Ln, Birmingham B29 6SN England;;https://www.costa.co.uk/locations/store-locator/map/#latitude=52.44497149999999&longitude=-1.9439776;tel:+44 1708 867194;
+724;Klassic Grill Bar Restaurant;110 Icknield Street Jewellery Quarter, Birmingham B18 6RZ England;;http://www.klassicgrillrestaurant.co.uk;tel:+44 121 293 9372;
+725;Pad Thai Restaurant & Karaoke Bar;Cathay Building 86 Holloway Head Capacity: 100, Birmingham B1 1NB England;;http://www.padthai.co.uk/;tel:+44 121 666 6669;mailto:mail@padthai.co.uk?subject=?
+726;Serranos;262e Chester Road Castle Bromwich, Birmingham England;;http://www.serranosgrill2.co.uk;;
+727;Seven Sins Lounge;The Custard Factory 7 Gibb Street, Birmingham B9 4AT England;;http://www.sevensinslounge.com/;tel:+44 121 448 5010;mailto:info@sevensinslounge.com?subject=?
+728;The Grill;245 Broad Street Jurys Inn Birmingham, Birmingham B1 2HQ England;;http://jurysinns.com;tel:+44 121 606 9000;
+729;Zante cafe Restaurant;856 Bristol Road, Birmingham B29 6HW England;;;tel:+44 121 471 1123;
+730;Greggs;85 New Street, Birmingham B2 4BA England;;;;
+731;Shahi Nan Kebab House;353 Stratford Road Sparkhill, Birmingham B11 4JY England;;;tel:+44 121 772 2787;
+732;Millers;Nec Hilton Birmingham Metropole hotel, Birmingham B40 1PP England;;http://www3.hilton.com/en/hotels/united-kingdom/hilton-birmingham-metropole-BHXMETW/dining/index.html;tel:+44 121 780 4242;
+733;Ramada Birmingham;Penns Lane Walmley, Birmingham B76 1LH England;;http://www.ramadasuttonhotel.co.uk/;tel:+44 121 351 3111;mailto:enquiries@ramadasuttonhotel.co.uk?subject=?
+734;Hajees Spices Buffet Restaurant;512 Stratford Road Sparkhill, Birmingham B11 4AH England;;http://www.facebook.com/pages/Hajees-Spices-Buffet-Restaurant/169350396433345;tel:+44 121 773 6130;
+735;Buddy's 232;232 Moseley Street, Birmingham B5 6LG England;;;tel:+44 121 622 5599;mailto:buddys232cafe@gmail.com?subject=?
+736;Legend Restaurant Chinese;Hurst Street, Digbeth, Birmingham England;;http://www.citikey.co.uk/display/legend-W0HN1;;
+737;Tuckers;9 Minories, Birmingham B4 6AG England;;;;
+738;It's a Brooklyn Thing;240 Warwick Road, Birmingham B11 2ND England;;http://brooklynburgers.co.uk;tel:+44 7399 333363;
+739;Sheratton Restaurants;608 Bristol Road, Birmingham B29 6BQ England;;https://sherattonsellyoak.co.uk/;tel:+44 121 471 4696;
+740;Taj Mahal;Norfolk House Smallbrook Queensway, Birmingham B5 4LJ England;;http://www.tajmahalbirmingham.co.uk/;tel:+44 121 643 8200;mailto:info@tajmahalb5.co.uk?subject=?
+741;The Kebab Shop;159 Dudley Road, Birmingham B18 7QY England;;http://www.thekebabshopbirmingham.co.uk;tel:+44 121 454 1189;
+742;Spice Nation;15 Macdonald Street, Birmingham B5 6TG England;;http://www.spicenationfood.com;tel:+44 121 622 3231;mailto:info@spicenationfood.com?subject=?
+743;Turkauz;1342 Stratford Road Hall Green, Birmingham B28 9EH England;;;tel:+44 121 777 3264;mailto:turkuaz.resturant@gmail.com?subject=?
+744;Hum Raj;128 Hawthorn Road Kingstanding, Birmingham B44 8PX England;;;tel:+44 121 350 0055;mailto:akhterhussain_1@hotmail.co.uk?subject=?
+745;Yaadgar;122-130 Ladypool Road Sparkbrook, Birmingham B12 8JA England;;;tel:+44 121 766 7540;
+746;Oodles Chinese;323 Ladypool Road, Birmingham B12 8LB England;;http://WWW.OODLESCHINESE.COM;tel:+44 121 449 0009;mailto:ladypoolroad@oodleschinese.com?subject=?
+747;Balti Hut;259 Highters Heath Lane Higher's Health, Birmingham B14 4NX England;;;tel:+44 121 430 6657;
+748;Centrala Space;Minerva Works 158 Fazeley Street Unit 4, Birmingham B5 5RT England;;http://centrala-space.org.uk/;tel:+44 121 513 0240;mailto:info@centrala-space.org.uk?subject=?
+749;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+750;Chai Lounge;343 Stratford Road, Birmingham B11 4JY England;;https://www.facebook.com/pages/category/Coffee-Shop/Chai-Lounge-336226373580086/;tel:+44 121 772 8662;
+751;Goodfillers;474 College Road, Birmingham B44 0HL England;;https://www.facebook.com/Goodfillers-kingstanding-563029817172247/;tel:+44 121 382 9982;
+752;Pizza Express;Upper Mall East, Bullring Shopping Centre, Birmingham B5 4BF England;;https://www.pizzaexpress.com/birmingham-bullring?utm_source=listings&utm_medium=Places&utm_campaign=birmingham-bullring;tel:+44 121 643 7209;mailto:bullring.manager@pizzaexpress.com?subject=?
+753;Butties Cafe;Forge Lane Minworth Industrial Park, Birmingham B76 1AP England;;http://www.minworthindustrialestates.co.uk/butties-cafe/;tel:+44 121 351 5939;mailto:info@minworthindustrialestates.co.uk?subject=?
+754;Chilli Aariz;1509 Pershore Road, Birmingham B30 2JL England;;;tel:+44 121 458 1247;mailto:m.ashok7373@gmail.com?subject=?
+755;Shawarma Bite;314 Ladypool Road, Birmingham B12 8JY England;;https://www.facebook.com/shawarma.bite20/;tel:+44 121 449 9699;mailto:shawarma.bite20@gmail.com?subject=?
+756;Salad Box;147 Great Charles Street Queensway, Birmingham B3 3LP England;;https://saladbox.co.uk/en;tel:+44 121 233 3419;
+757;Feng Cha;579 Bristol Road, Birmingham B29 6AF England;;https://www.facebook.com/fengcha.bham/;tel:+44 121 406 7018;
+758;Balti Raj;1604 Coventry Road, Birmingham B26 1AL England;;http://baltirajyardley.com/index.php;tel:+44 121 706 6627;
+759;The Dessert King;223 - 225 Edward Road Balsal Heath, Birmingham B10 0NR England;;http://www.thedessertking.co.uk/;tel:+44 121 337 7378;mailto:dessertkingbham@gmail.com?subject=?
+760;Thyme Bar & Grill;Richard Street Birmingham City - Aston hotel, Birmingham B7 4AA England;;https://www.premierinn.com/gb/en/hotels/england/west-midlands/birmingham/birmingham-city---aston.html?cid=GLBC_BIRMTI;tel:+44 333 777 3907;
+761;Snapeat;6 High Street Kings Heath, Birmingham B14 7JZ England;;;tel:+44 121 448 9895;
+762;Stockland Balti;332 Marsh Lane, Birmingham B23 6HP England;;;tel:+44 121 377 8789;
+763;The Dragonfly;Mezzanine, Landside, Terminal 1 Birmingham Airport, Birmingham England;;http://www.jdwetherspoon.co.uk/home/pubs/the-dragonfly;;
+764;Pizza Marinos;299A Alcester Road, Birmingham B13 8BB England;;http://www.pizzamarinos-b14.co.uk/?fbclid=IwAR2rbOpTYHCBrP2oj-rNGtQ7umd2WB3uX7kdlEqrhM6tGHzhid6mIhCaNbk;tel:+44 121 444 1114;
+765;The Edgbaston Tap;17 Hollies Croft, Birmingham B5 7QN England;;https://edgbastonsportsbarbirmingham.co.uk/;tel:+44 7833 910193;mailto:Info@edgbastonsportsbarbirmingham.co.uk?subject=?
+766;Highfield Chippy;208 Robin Hood Lane, Birmingham B28 0LG England;;http://www.highfieldchippy.co.uk/;tel:+44 121 777 3971;
+767;Yates - Birmingham Airport;Birmingham Airport, Birmingham England;;http://www.birminghamairport.co.uk/at-the-airport/bars-and-restaurants.aspx;;
+768;Sakumen;10 Pershore Street 2rd floor 7 Unit, Birmingham B5 4RU England;;;tel:+44 7754 913951;mailto:info@ctrusmedia.com?subject=?
+769;Medina Delights MD;2 Walford Road, Birmingham B11 1NR England;;;tel:+44 121 771 4486;
+770;Full-A-Flava;235 Dudley Road Winson Green, B18 4EJ, Birmingham B18 4EJ England;;;tel:+44 121 792 8138;
+771;Carluccis;Unit 11 Grand Central Station, Birmingham B24XJ England;;http://www.carluccios.com/restaurants/birmingham/grand-central-station;tel:0121 643 009;mailto:hello@carluccios.com?subject=?
+772;Esme's;Unit 3 Kings Court High Street, Birmingham B14 7JZ England;;https://www.facebook.com/esmeseats01;tel:+44 121 439 8282;
+773;Perry Barr Stadium;Aldridge Road, Birmingham B42 2ET England;;http://www.lovethedogs.co.uk/perrybarr;tel:+44 121 726 1707;mailto:enquiries@gralimited.co.uk?subject=?
+774;UK HOT 'N' SPICY;174 Tynedale Road Tyseley, Birmingham B11 3QU England;;;tel:+44 121 238 4662;
+775;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+776;Two Towers Brewery;29 Shadwell Street, Birmingham B4 6HB England;;http://twotowersbrewery.co.uk;tel:+44 121 439 3738;mailto:enquiries@twotowersbrewery.co.uk?subject=?
+777;Hot Stuff Pizza - Handsworth Wood;242 Grove Lane, Birmingham B20 2EY England;;http://hotstuffpizzahandsworth.co.uk/;tel:+44 121 554 0003;
+778;Hong Kong Kitchen;400 Groveley Lane, Birmingham B45 8UQ England;;http://www.hongkongkitchenuk.co.uk;tel:+44 121 445 3782;
+779;Jamie Olivers Italian Restaurant;Middle Mall, Bullring Shopping Centre, Spiceal Street., Birmingham B5 4BE England;;https://www.jamieoliver.com/italian/restaurants/birmingham/;tel:012175227323;mailto:facebook@jamiesitalian.com?subject=?
+780;Roberts Deli;271 Chester Road, Birmingham B36 0ET England;;;tel:+44 121 749 2010;
+781;Lovepizza;1165 Warwick Road Acocks Green, Birmingham B27 6RG England;;https://www.facebook.com/Lovepizzabirmingham/;;
+782;Pizza Giano;716 Chester Road Wylde Green, Birmingham B23 5TE England;;;tel:+44 121 377 7718;
+783;Subway;165 Sutton Road, Birmingham B23 5TN England;;;;
+784;Maypole Fryer;1001 Alcester Road South, Birmingham B14 5JA England;;;tel:+44 121 448 7540;
+785;Yuwies: Good Food Diner;19 Muntz Street, Birmingham B10 9SN England;;;tel:+44 7743 888751;
+786;Chung Shing;404 Coventry Road, Birmingham B10 0UF England;;;tel:+44 121 773 7899;
+787;The Royal Fish Bar;95 Longbridge Lane Longbridge, Birmingham B31 4RD England;;http://www.facebook.com/TheRoyalFishBarLongbride;tel:+44 121 475 8152;
+788;Albela;346 Bordesley Green, Birmingham B9 5NB England;;;tel:+44 121 773 8758;
+789;Pizza bonita House;10 High Street, Birmingham B23 6RH England;;http://pizzabonitahouse.co.uk;tel:+44 121 285 3077;
+790;Karahi King;346 Coventry Road, Birmingham B10 0XE England;;;tel:+44 121 773 6273;
+791;Nawaab;238 Highgate Road, Birmingham B12 8EA England;;https://www.facebook.com/NawaabRestaurant/;tel:+44 121 773 0030;mailto:info@nawaabgroup.co.uk?subject=?
+792;Curry Gardens;41 York Road, Birmingham B14 7SA England;;http://www.curryg.co.uk;tel:+44 121 444 0056;
+793;Agadir Cafe;405 Coventry Road, Birmingham B10 0SP England;;http://www.facebook.com/Agadir-Cafe-1081672255242049/;tel:+44 7404 808231;mailto:elkhaddari@hotmail.be?subject=?
+794;Khan Saab Chef Village;368 Stratford Road, Birmingham B11 4AB England;;https://www.facebook.com/KhanSaabChefVillage;tel:+44 7474 278491;
+795;1565 Restaurant, Bar & Terrace;160 Broad Street, Birmingham B15 1DT England;;https://www.facebook.com/1565restaurant/;tel:+44 121 369 5555;
+796;Yummy House;1563 Stratford Road Hall Green, Birmingham B28 9JA England;;http://yummyhouse.co.uk;tel:+44 121 733 8338;
+797;Pret a Manger;Unit 3A, 55A Temple Row, Birmingham, Birmingham B2 5LS England;;;;
+798;The Cave;89 Cape Hill, Birmingham B66 4SG England;;http://www.thecaverestaurant.co.uk;tel:+44 121 565 5382;
+799;Mr Frost;858 Washwood Heath Road, Birmingham B8 2NL England;;https://www.facebook.com/Mr-frost-177567412673678/;;
+800;Pizza Hot;462 College Road, Birmingham B44 0HL England;;http://pizzahot.vpshop.co.uk;tel:+44 121 350 5505;
+801;Morrisons Cafe;2259-2297 Coventry Road Morrisons Super Market, Sheldon, Birmingham B26 3PD England;;https://my.morrisons.com/storefinder/554;tel:+44 121 742 6584;
+802;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+803;Luxor Cafe & Shisha Lounge;352 Moseley Road, Birmingham B12 9AZ England;;https://www.facebook.com/luxorcafebhx/;tel:+44 121 440 8528;
+804;Theatrix;130 Colmore Row, Birmingham B3 3AP England;;http://theatrixbirmingham.co.uk;tel:+44 121 233 9399;
+805;Izza Pizza;Selfridges Food Hall, The Bullring Upper Mall East, Birmingham B5 4BP England;;http://www.izza-pizza.co.uk;;
+806;The Crown;290 Alcester Road South Kings Heath, Birmingham B14 6EN England;;https://www.stonehouserestaurants.co.uk/nationalsearch/eastandwestmidlands/thecrownkingsheath#;tel:+44 121 444 2912;
+807;Toby Carvery;563 Hagley Road West Quinton, Birmingham B32 1HP England;;http://www.tobycarvery.co.uk/quintonbirmingham/;tel:+44 121 423 3895;
+808;Shard End Balti Indian Take Away;221B Heath Way, Birmingham B34 6QU England;;http://shardendbaltitakeaway.co.uk;tel:+44 121 749 1907;
+809;New Ruby;241 Merritts Brook Lane, Birmingham B31 1UJ England;;http://www.newruby.co.uk/;tel:+44 121 478 1836;
+810;Black Country Kitchen;212 Thimble Mill Lane Aston, Birmingham B7 5HT England;;http://www.facebook.com/BlackCountryKitchensLtd/;tel:+44 121 327 2141;
+811;Browns Diner Shard End;7 Ownall Road, Birmingham B34 7AH England;;;tel:+44 7773 609356;
+812;The Crown Shard End;Hurst Lane Shard End, Birmingham B34 7HP England;;http://thecrownclubs.uk;tel:+44 121 747 3922;mailto:shardend@thecrownclubs.uk?subject=?
+813;Broadway 2;706 Stratford Road, Birmingham B12 0JP England;;http://broadway2.com/index.php;tel:+44 121 777 1515;
+814;Chicken Express;45 Station Street, Birmingham B5 4DY England;;;tel:+44 121 643 3704;
+815;Canalside Cafe;Gas Street, Birmingham B1 2JU England;;;tel:+44 121 643 3170;
+816;Fung Wong;2 South Road, Birmingham B23 6EE England;;;tel:+44 121 350 5206;
+817;Glebe Fish Bar;27 Glebe Farm Road, Birmingham B33 9LY England;;;tel:+44 121 783 2438;
+818;Woodstock Cafe;584 Bristol Road, Birmingham B29 6BE England;;;tel:+44 121 249 0968;
+819;Meshwiat Middle East;760 Alum Rock Rd, Birmingham England;;https://www.facebook.com/meshwiat/;tel:+44 121 246 2801;
+820;The Cafe at Old Mill;18 West Heath Road, Birmingham B31 3TG England;;http://www.facebook.com/CAFEtheoldmill-1400681730144801/;tel:+44 121 475 5006;
+821;Starbucks;10 Cherry Street, Birmingham B2 5AR England;;https://www.starbucks.com/store-locator/store/1017306/birmingham-cherry-st-10-cherry-st-birmingham-eng-b-2-5-ar-gb;;
+822;Sahara Desserts;760 Alum Rock Road Pelham, Birmingham B8 3PP England;;;tel:+44 7878 079550;mailto:saharadesserts760@gmail.com?subject=?
+823;Haslucks Fish Bar;184A Haslucks Green Road, Birmingham B90 2LN England;;;tel:+44 121 733 8124;
+824;Kabul darbar;912 Alum Rock Road, Birmingham B8 2LU England;;https://www.facebook.com/kabuldarbarbirmingham/;tel:+44 121 783 1110;
+825;YumYum Sheesha;Martineau Place, Birmingham B2 4UU England;;http://www.facebook.com/#!/pages/YUMYUMchicken/111460302252304;tel:+44 7890 010108;
+826;Sandwich Club;14 Islington Row Middleway, Birmingham B15 1LD England;;http://www.sandwichclub.biz/;tel:+44 121 454 4602;mailto:info@sandwichclub.biz?subject=?
+827;Wrapchic;Airport Way Ground Floor, North Terminal Birmingham Airport, Birmingham B26 3QJ England;;http://wrapchic.co.uk;tel:+44 121 782 1938;mailto:birmingham.airport@wrapchic.co.uk?subject=?
+828;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+829;Bengal Palace;54 East Meadway Tile Cross, Birmingham B33 0AP England;;http://www.bengalpalacebirmingham.co.uk/;tel:+44 121 783 0720;
+830;Somali Restaurant;479 Coventry Road Small Heath, Birmingham B10 0JS England;;;tel:+44 121 771 2055;
+831;Pizza Point;127 Soho Road, Birmingham B21 9ST England;;http://hungryhouse.co.uk/pizza-point-handsworth?aid=4fe99398aea34&bid=11ba4842&utm_source=affiliate-qype&utm_medium=affiliate&utm_campaign=qype;tel:+44 121 515 2010;
+832;Lee Garden;9 Orphanage Road, Birmingham B24 9HP England;;http://www.leegardenbirmingham.co.uk/;tel:+44 121 384 8333;
+833;Cake Time;178 Slade Road, Birmingham B23 7RJ England;;;;
+834;Luv Baguette;629 Bordesley Green, Birmingham B9 5XZ England;;https://www.facebook.com/LUV-Baguette-492776348157711/;tel:+44 121 753 0717;
+835;Doaba;268 Soho Road Handsworth, Birmingham B21 9LX England;;http://www.doabacatering.com;tel:+44 121 551 1725;
+836;Chongqing Noodles;Unit 4 Latitude, Bromsgrove Street, Birmingham B5 6AB England;;;tel:+44 7421 901816;mailto:80scanteen@gmail.com?subject=?
+837;@Pizza;Unit 33 Grand Central Stephenson Place, Birmingham B2 4BF England;;http://www.atpizza.com;tel:+44 121 274 2836;mailto:grandcentral@atpizza.com?subject=?
+838;The Bull's Head;77 The Green Kings Norton, Birmingham B38 8RU England;;http://www.bullsheadpub.co.uk;tel:+44 121 486 2810;mailto:bullshead.kingsnorton@marstons.co.uk?subject=?
+839;Maharaja Spice Express;Hagley Road, Birmingham B17 8BJ England;;https://www.maharajasspiceexpress.uk/;tel:+44 121 277 4130;
+840;Yummyz Desserts;65 Yardley Road Acocks Green, Birmingham B27 6LL England;;https://www.facebook.com/YummyzDesserts/;tel:+44 7874 647199;
+841;;;;;;
+842;;;;;;
+843;;;;;;
+844;;;;;;
+845;;;;;;
+846;;;;;;
+847;;;;;;
+848;;;;;;
+849;;;;;;
+850;;;;;;
+851;;;;;;
+852;;;;;;
+853;;;;;;
+854;;;;;;
+855;;;;;;
+856;;;;;;
+857;;;;;;
+858;;;;;;
+859;;;;;;
+860;;;;;;
+861;;;;;;
+862;;;;;;
+863;;;;;;
+864;;;;;;
+865;;;;;;
+866;;;;;;
+867;;;;;;
+868;;;;;;
+869;;;;;;
+870;;;;;;
+871;;;;;;
+872;;;;;;
+873;;;;;;
+874;;;;;;
+875;;;;;;
+876;;;;;;
+877;;;;;;
+878;;;;;;
+879;;;;;;
+880;;;;;;
+881;;;;;;
+882;;;;;;
+883;;;;;;
+884;;;;;;
+885;;;;;;
+886;;;;;;
+887;;;;;;
+888;;;;;;
+889;;;;;;
+890;;;;;;
+891;;;;;;
+892;;;;;;
+893;;;;;;
+894;;;;;;
+895;;;;;;
+896;;;;;;
+897;;;;;;
+898;;;;;;
+899;;;;;;
+900;;;;;;
+901;;;;;;
+902;;;;;;
+903;;;;;;
+904;;;;;;
+905;;;;;;
+906;;;;;;
+907;;;;;;
+908;;;;;;
+909;;;;;;
+910;;;;;;
+911;;;;;;
+912;;;;;;
+913;;;;;;
+914;;;;;;
+915;;;;;;
+916;;;;;;
+917;;;;;;
+918;;;;;;
+919;;;;;;
+920;;;;;;
+921;;;;;;
+922;;;;;;
+923;;;;;;
+924;;;;;;
+925;;;;;;
+926;;;;;;
+927;;;;;;
+928;;;;;;
+929;;;;;;
+930;;;;;;
+931;;;;;;
+932;;;;;;
+933;;;;;;
+934;;;;;;
+935;;;;;;
+936;;;;;;
+937;;;;;;
+938;;;;;;
+939;;;;;;
+940;;;;;;
+941;;;;;;
+942;;;;;;
+943;;;;;;
+944;;;;;;
+945;;;;;;
+946;;;;;;
+947;;;;;;
+948;;;;;;
+949;;;;;;
+950;;;;;;
+951;;;;;;
+952;;;;;;
+953;;;;;;
+954;;;;;;
+955;;;;;;
+956;;;;;;
+957;;;;;;
+958;;;;;;
+959;;;;;;
+960;;;;;;
+961;;;;;;
+962;;;;;;
+963;;;;;;
+964;;;;;;
+965;;;;;;
+966;;;;;;
+967;;;;;;
+968;;;;;;
+969;;;;;;
+970;;;;;;
+971;;;;;;
+972;;;;;;
+973;;;;;;
+974;;;;;;
+975;;;;;;
+976;;;;;;
+977;;;;;;
+978;;;;;;
+979;;;;;;
+980;;;;;;
+981;;;;;;
+982;;;;;;
+983;;;;;;
+984;;;;;;
